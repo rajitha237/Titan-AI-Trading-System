@@ -1,0 +1,59 @@
+services:
+  backend:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.backend
+    container_name: titanai-backend
+    ports:
+      - "${APP_PORT:-8000}:8000"
+    env_file:
+      - ../.env
+    environment:
+      POSTGRES_HOST: postgres
+      DATABASE_URL: postgresql+asyncpg://${POSTGRES_USER:-titanai}:${POSTGRES_PASSWORD:-titanai}@postgres:5432/${POSTGRES_DB:-titanai}
+    depends_on:
+      postgres:
+        condition: service_healthy
+    restart: unless-stopped
+    networks:
+      - titanai
+
+  frontend:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.frontend
+    container_name: titanai-frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+    restart: unless-stopped
+    networks:
+      - titanai
+
+  postgres:
+    image: postgres:16-alpine
+    container_name: titanai-postgres
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-titanai}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-titanai}
+      POSTGRES_DB: ${POSTGRES_DB:-titanai}
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-titanai} -d ${POSTGRES_DB:-titanai}"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+    networks:
+      - titanai
+
+volumes:
+  postgres_data:
+
+networks:
+  titanai:
+    driver: bridge

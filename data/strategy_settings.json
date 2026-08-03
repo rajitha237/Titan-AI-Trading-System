@@ -1,0 +1,157 @@
+{
+  "updated_at": "2026-07-03T07:52:55.372988",
+  "settings": {
+    "ADAUSDT": {
+      "tp": 1.5,
+      "sl": 1.0,
+      "trailing": 0.3,
+      "hold": 20,
+      "win_rate": 56.1,
+      "total_pnl": 21.4
+    },
+    "UNIUSDT": {
+      "tp": 1.5,
+      "sl": 1.2,
+      "trailing": 0.3,
+      "hold": 40,
+      "win_rate": 63.16,
+      "total_pnl": 19.17
+    },
+    "FILUSDT": {
+      "tp": 1.5,
+      "sl": 0.8,
+      "trailing": 0.3,
+      "hold": 40,
+      "win_rate": 57.14,
+      "total_pnl": 13.8
+    },
+    "XRPUSDT": {
+      "tp": 1.0,
+      "sl": 1.2,
+      "trailing": 0.3,
+      "hold": 60,
+      "win_rate": 73.08,
+      "total_pnl": 9.44
+    },
+    "DOTUSDT": {
+      "tp": 1.5,
+      "sl": 1.2,
+      "trailing": 0.3,
+      "hold": 20,
+      "win_rate": 54.29,
+      "total_pnl": 8.57
+    },
+    "BTCUSDT": {
+      "tp": 1.2,
+      "sl": 1.2,
+      "trailing": 1.0,
+      "hold": 60,
+      "win_rate": 63.16,
+      "total_pnl": 8.05
+    },
+    "ARBUSDT": {
+      "tp": 1.0,
+      "sl": 1.2,
+      "trailing": 0.3,
+      "hold": 40,
+      "win_rate": 60.0,
+      "total_pnl": 5.37
+    },
+    "LTCUSDT": {
+      "tp": 1.5,
+      "sl": 1.2,
+      "trailing": 0.3,
+      "hold": 60,
+      "win_rate": 42.5,
+      "total_pnl": 4.52
+    },
+    "LINKUSDT": {
+      "tp": 1.5,
+      "sl": 0.8,
+      "trailing": 0.3,
+      "hold": 40,
+      "win_rate": 45.45,
+      "total_pnl": 3.47
+    },
+    "SUIUSDT": {
+      "tp": 1.5,
+      "sl": 1.2,
+      "trailing": 0.3,
+      "hold": 40,
+      "win_rate": 58.33,
+      "total_pnl": 3.37
+    },
+    "BNBUSDT": {
+      "tp": 1.0,
+      "sl": 1.0,
+      "trailing": 0.3,
+      "hold": 60,
+      "win_rate": 55.56,
+      "total_pnl": 0.2
+    },
+    "DOGEUSDT": {
+      "tp": 1.2,
+      "sl": 0.8,
+      "trailing": 0.3,
+      "hold": 20,
+      "win_rate": 45.45,
+      "total_pnl": -1.89
+    },
+    "ETHUSDT": {
+      "tp": 1.5,
+      "sl": 0.8,
+      "trailing": 0.3,
+      "hold": 60,
+      "win_rate": 34.21,
+      "total_pnl": -3.94
+    },
+    "AAVEUSDT": {
+      "tp": 0.8,
+      "sl": 0.8,
+      "trailing": 0.3,
+      "hold": 60,
+      "win_rate": 38.1,
+      "total_pnl": -4.75
+    },
+    "TRXUSDT": {
+      "tp": 0.8,
+      "sl": 0.8,
+      "trailing": 0.3,
+      "hold": 20,
+      "win_rate": 17.65,
+      "total_pnl": -4.92
+    },
+    "INJUSDT": {
+      "tp": 1.0,
+      "sl": 1.0,
+      "trailing": 0.3,
+      "hold": 20,
+      "win_rate": 44.07,
+      "total_pnl": -7.22
+    },
+    "NEARUSDT": {
+      "tp": 0.8,
+      "sl": 0.8,
+      "trailing": 0.3,
+      "hold": 60,
+      "win_rate": 28.0,
+      "total_pnl": -11.63
+    },
+    "AVAXUSDT": {
+      "tp": 0.8,
+      "sl": 0.8,
+      "trailing": 0.3,
+      "hold": 20,
+      "win_rate": 5.56,
+      "total_pnl": -14.04
+    },
+    "SOLUSDT": {
+      "tp": 1.2,
+      "sl": 1.2,
+      "trailing": 0.3,
+      "hold": 40,
+      "win_rate": 39.22,
+      "total_pnl": -14.13
+    }
+  }
+}

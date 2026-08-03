@@ -1,0 +1,15 @@
+{
+  "status": "stopped",
+  "running": false,
+  "stopped_at": "2026-07-26T13:03:15+00:00",
+  "cycle_number": 2,
+  "last_success_at": "2026-07-26T13:03:13+00:00",
+  "last_error": null,
+  "execute_trades": false,
+  "telegram_shutdown": {
+    "status": "success",
+    "sent": true,
+    "message_id": 6,
+    "event_key": "shutdown:865105f36f5ae585848ad126"
+  }
+}

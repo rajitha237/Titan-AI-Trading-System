@@ -1,0 +1,17 @@
+{
+  "status": "STOPPED",
+  "timestamp": "2026-08-01T17:42:58.369+00:00",
+  "process_id": 49097,
+  "cycle_number": 2,
+  "execute_trade": false,
+  "interval_seconds": 30.0,
+  "last_cycle": {
+    "status": "skipped",
+    "mode": "NO_EXECUTABLE_CANDIDATE",
+    "symbol": null,
+    "cycle_id": "ff08dfeea93e40aeb3d7331b58977686",
+    "learning_status": "INSUFFICIENT_SAMPLE",
+    "execution_submitted": false
+  },
+  "error": null
+}

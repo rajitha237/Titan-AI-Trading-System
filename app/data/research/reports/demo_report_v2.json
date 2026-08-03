@@ -1,0 +1,1114 @@
+{
+  "status": "success",
+  "version": "v2",
+  "approved_count": 0,
+  "results": [
+    {
+      "version": "v2",
+      "symbol": "BTCUSDT",
+      "timeframe": "1h",
+      "approved": false,
+      "parameters": {
+        "minimum_score": 82.0,
+        "minimum_adx": 28.0,
+        "minimum_volume_ratio": 1.1,
+        "minimum_abs_delta": 0.03,
+        "require_sk": false,
+        "require_bos": false,
+        "allowed_sessions": [
+          "LONDON",
+          "NEW_YORK"
+        ]
+      },
+      "train_report": {
+        "symbol": "BTCUSDT",
+        "timeframe": "1h",
+        "trade_count": 2,
+        "wins": 2,
+        "losses": 0,
+        "win_rate_percent": 100.0,
+        "profit_factor": Infinity,
+        "net_pnl": 26.64189395319904,
+        "return_percent": 2.664189395319916,
+        "expectancy_r": 1.3233403212876325,
+        "average_win": 13.32094697659952,
+        "average_loss": 0,
+        "maximum_drawdown_percent": 0,
+        "initial_balance": 1000.0,
+        "final_balance": 1026.641893953199
+      },
+      "validation_report": {
+        "symbol": "BTCUSDT",
+        "timeframe": "1h",
+        "trade_count": 1,
+        "wins": 1,
+        "losses": 0,
+        "win_rate_percent": 100.0,
+        "profit_factor": Infinity,
+        "net_pnl": 14.467833642618025,
+        "return_percent": 1.4467833642618055,
+        "expectancy_r": 1.4467833642618024,
+        "average_win": 14.467833642618025,
+        "average_loss": 0,
+        "maximum_drawdown_percent": 0,
+        "initial_balance": 1000.0,
+        "final_balance": 1014.4678336426181
+      },
+      "test_report": {
+        "symbol": "BTCUSDT",
+        "timeframe": "1h",
+        "trade_count": 1,
+        "wins": 1,
+        "losses": 0,
+        "win_rate_percent": 100.0,
+        "profit_factor": Infinity,
+        "net_pnl": 13.225199269905742,
+        "return_percent": 1.322519926990573,
+        "expectancy_r": 1.3225199269905743,
+        "average_win": 13.225199269905742,
+        "average_loss": 0,
+        "maximum_drawdown_percent": 0,
+        "initial_balance": 1000.0,
+        "final_balance": 1013.2251992699057
+      },
+      "walk_forward": {
+        "status": "success",
+        "parameters": {
+          "minimum_score": 82.0,
+          "minimum_adx": 28.0,
+          "minimum_volume_ratio": 1.1,
+          "minimum_abs_delta": 0.03,
+          "require_sk": false,
+          "require_bos": false,
+          "allowed_sessions": [
+            "LONDON",
+            "NEW_YORK"
+          ]
+        },
+        "folds": [
+          {
+            "symbol": "BTCUSDT",
+            "timeframe": "1h",
+            "trade_count": 0,
+            "wins": 0,
+            "losses": 0,
+            "win_rate_percent": 0,
+            "profit_factor": 0,
+            "net_pnl": 0,
+            "return_percent": 0.0,
+            "expectancy_r": 0,
+            "average_win": 0,
+            "average_loss": 0,
+            "maximum_drawdown_percent": 0,
+            "initial_balance": 1000.0,
+            "final_balance": 1000.0
+          },
+          {
+            "symbol": "BTCUSDT",
+            "timeframe": "1h",
+            "trade_count": 2,
+            "wins": 2,
+            "losses": 0,
+            "win_rate_percent": 100.0,
+            "profit_factor": Infinity,
+            "net_pnl": 28.083655859423303,
+            "return_percent": 2.8083655859423295,
+            "expectancy_r": 1.3944736901190384,
+            "average_win": 14.041827929711651,
+            "average_loss": 0,
+            "maximum_drawdown_percent": 0,
+            "initial_balance": 1000.0,
+            "final_balance": 1028.0836558594233
+          },
+          {
+            "symbol": "BTCUSDT",
+            "timeframe": "1h",
+            "trade_count": 1,
+            "wins": 1,
+            "losses": 0,
+            "win_rate_percent": 100.0,
+            "profit_factor": Infinity,
+            "net_pnl": 13.225199269905742,
+            "return_percent": 1.322519926990573,
+            "expectancy_r": 1.3225199269905743,
+            "average_win": 13.225199269905742,
+            "average_loss": 0,
+            "maximum_drawdown_percent": 0,
+            "initial_balance": 1000.0,
+            "final_balance": 1013.2251992699057
+          }
+        ],
+        "positive_fold_ratio": 0.6666666666666666
+      },
+      "probability": {
+        "sample_size": 1,
+        "raw_win_rate_percent": 100.0,
+        "confidence_lower_bound_percent": 20.654329147389294,
+        "method": "Wilson 95% lower confidence bound"
+      },
+      "pattern_similarity": {
+        "status": "ready",
+        "sample_size": 100,
+        "positive_probability_percent": 41.0,
+        "average_forward_return_percent": -0.2902135677511524,
+        "median_forward_return_percent": -0.1804416636852879,
+        "average_similarity_distance": 0.5119757819353187,
+        "feature_count": 10,
+        "forward_bars": 12
+      },
+      "safety": {
+        "selection_basis": "parameters selected on train and validation only",
+        "test_data_used_for_selection": false
+      }
+    },
+    {
+      "version": "v2",
+      "symbol": "BTCUSDT",
+      "timeframe": "15m",
+      "approved": false,
+      "parameters": {
+        "minimum_score": 82.0,
+        "minimum_adx": 24.0,
+        "minimum_volume_ratio": 0.9,
+        "minimum_abs_delta": 0.03,
+        "require_sk": false,
+        "require_bos": false,
+        "allowed_sessions": [
+          "LONDON",
+          "NEW_YORK"
+        ]
+      },
+      "train_report": {
+        "symbol": "BTCUSDT",
+        "timeframe": "15m",
+        "trade_count": 44,
+        "wins": 19,
+        "losses": 25,
+        "win_rate_percent": 43.18181818181818,
+        "profit_factor": 0.7243438845181938,
+        "net_pnl": -85.94312172026719,
+        "return_percent": -8.594312172026708,
+        "expectancy_r": -0.19620824686922625,
+        "average_win": 11.885971637193549,
+        "average_loss": -12.471063313077785,
+        "maximum_drawdown_percent": 12.267509150876407,
+        "initial_balance": 1000.0,
+        "final_balance": 914.0568782797329
+      },
+      "validation_report": {
+        "symbol": "BTCUSDT",
+        "timeframe": "15m",
+        "trade_count": 11,
+        "wins": 6,
+        "losses": 5,
+        "win_rate_percent": 54.54545454545454,
+        "profit_factor": 1.1309950041578183,
+        "net_pnl": 8.670461638190698,
+        "return_percent": 0.8670461638190741,
+        "expectancy_r": 0.0867431132855187,
+        "average_win": 12.476619317890753,
+        "average_loss": -13.237850853830764,
+        "maximum_drawdown_percent": 2.4856503412709285,
+        "initial_balance": 1000.0,
+        "final_balance": 1008.6704616381908
+      },
+      "test_report": {
+        "symbol": "BTCUSDT",
+        "timeframe": "15m",
+        "trade_count": 6,
+        "wins": 4,
+        "losses": 2,
+        "win_rate_percent": 66.66666666666666,
+        "profit_factor": 1.9020252075914637,
+        "net_pnl": 21.787234191991395,
+        "return_percent": 2.178723419199158,
+        "expectancy_r": 0.3660755613710835,
+        "average_win": 11.485230204241368,
+        "average_loss": -12.076843312487037,
+        "maximum_drawdown_percent": 1.251988292412684,
+        "initial_balance": 1000.0,
+        "final_balance": 1021.7872341919915
+      },
+      "walk_forward": {
+        "status": "success",
+        "parameters": {
+          "minimum_score": 82.0,
+          "minimum_adx": 24.0,
+          "minimum_volume_ratio": 0.9,
+          "minimum_abs_delta": 0.03,
+          "require_sk": false,
+          "require_bos": false,
+          "allowed_sessions": [
+            "LONDON",
+            "NEW_YORK"
+          ]
+        },
+        "folds": [
+          {
+            "symbol": "BTCUSDT",
+            "timeframe": "15m",
+            "trade_count": 18,
+            "wins": 7,
+            "losses": 11,
+            "win_rate_percent": 38.88888888888889,
+            "profit_factor": 0.6017862561280631,
+            "net_pnl": -56.992635552014384,
+            "return_percent": -5.699263555201462,
+            "expectancy_r": -0.3177374181312174,
+            "average_win": 12.304011280200356,
+            "average_loss": -13.010974046674262,
+            "maximum_drawdown_percent": 9.007331329687847,
+            "initial_balance": 1000.0,
+            "final_balance": 943.0073644479854
+          },
+          {
+            "symbol": "BTCUSDT",
+            "timeframe": "15m",
+            "trade_count": 17,
+            "wins": 10,
+            "losses": 7,
+            "win_rate_percent": 58.82352941176471,
+            "profit_factor": 1.1877431750040384,
+            "net_pnl": 18.376401908987447,
+            "return_percent": 1.8376401908987372,
+            "expectancy_r": 0.11530010987427151,
+            "average_win": 11.625693422976116,
+            "average_loss": -13.982933188681958,
+            "maximum_drawdown_percent": 2.345078631729868,
+            "initial_balance": 1000.0,
+            "final_balance": 1018.3764019089873
+          },
+          {
+            "symbol": "BTCUSDT",
+            "timeframe": "15m",
+            "trade_count": 7,
+            "wins": 4,
+            "losses": 3,
+            "win_rate_percent": 57.14285714285714,
+            "profit_factor": 1.2367490795403948,
+            "net_pnl": 8.6816051054792,
+            "return_percent": 0.8681605105478996,
+            "expectancy_r": 0.13054788039941564,
+            "average_win": 11.337918550706153,
+            "average_loss": -12.223356365781804,
+            "maximum_drawdown_percent": 2.513059062378636,
+            "initial_balance": 1000.0,
+            "final_balance": 1008.681605105479
+          }
+        ],
+        "positive_fold_ratio": 0.6666666666666666
+      },
+      "probability": {
+        "sample_size": 6,
+        "raw_win_rate_percent": 66.66666666666666,
+        "confidence_lower_bound_percent": 29.99883213415286,
+        "method": "Wilson 95% lower confidence bound"
+      },
+      "pattern_similarity": {
+        "status": "ready",
+        "sample_size": 100,
+        "positive_probability_percent": 55.00000000000001,
+        "average_forward_return_percent": 0.07460342389629092,
+        "median_forward_return_percent": 0.09501094862813808,
+        "average_similarity_distance": 0.3748750166715489,
+        "feature_count": 10,
+        "forward_bars": 12
+      },
+      "safety": {
+        "selection_basis": "parameters selected on train and validation only",
+        "test_data_used_for_selection": false
+      }
+    },
+    {
+      "version": "v2",
+      "symbol": "SOLUSDT",
+      "timeframe": "15m",
+      "approved": false,
+      "parameters": {
+        "minimum_score": 82.0,
+        "minimum_adx": 28.0,
+        "minimum_volume_ratio": 0.9,
+        "minimum_abs_delta": 0.15,
+        "require_sk": false,
+        "require_bos": false,
+        "allowed_sessions": [
+          "LONDON",
+          "NEW_YORK"
+        ]
+      },
+      "train_report": {
+        "symbol": "SOLUSDT",
+        "timeframe": "15m",
+        "trade_count": 9,
+        "wins": 0,
+        "losses": 9,
+        "win_rate_percent": 0.0,
+        "profit_factor": 0.0,
+        "net_pnl": -105.40189115730234,
+        "return_percent": -10.540189115730236,
+        "expectancy_r": -1.229920641707948,
+        "average_win": 0,
+        "average_loss": -11.711321239700261,
+        "maximum_drawdown_percent": 10.540189115730232,
+        "initial_balance": 1000.0,
+        "final_balance": 894.5981088426977
+      },
+      "validation_report": {
+        "symbol": "SOLUSDT",
+        "timeframe": "15m",
+        "trade_count": 2,
+        "wins": 1,
+        "losses": 1,
+        "win_rate_percent": 50.0,
+        "profit_factor": 1.206569578704487,
+        "net_pnl": 2.268693941156503,
+        "return_percent": 0.22686939411564744,
+        "expectancy_r": 0.12061634739016858,
+        "average_win": 13.25140473228435,
+        "average_loss": -10.982710791127847,
+        "maximum_drawdown_percent": 1.083907778448096,
+        "initial_balance": 1000.0,
+        "final_balance": 1002.2686939411565
+      },
+      "test_report": {
+        "symbol": "SOLUSDT",
+        "timeframe": "15m",
+        "trade_count": 2,
+        "wins": 1,
+        "losses": 1,
+        "win_rate_percent": 50.0,
+        "profit_factor": 1.027286151495037,
+        "net_pnl": 0.32063060171115687,
+        "return_percent": 0.03206306017111693,
+        "expectancy_r": 0.02320815548767008,
+        "average_win": 12.071302064833189,
+        "average_loss": -11.750671463122032,
+        "maximum_drawdown_percent": 1.1750671463121989,
+        "initial_balance": 1000.0,
+        "final_balance": 1000.3206306017112
+      },
+      "walk_forward": {
+        "status": "success",
+        "parameters": {
+          "minimum_score": 82.0,
+          "minimum_adx": 28.0,
+          "minimum_volume_ratio": 0.9,
+          "minimum_abs_delta": 0.15,
+          "require_sk": false,
+          "require_bos": false,
+          "allowed_sessions": [
+            "LONDON",
+            "NEW_YORK"
+          ]
+        },
+        "folds": [
+          {
+            "symbol": "SOLUSDT",
+            "timeframe": "15m",
+            "trade_count": 4,
+            "wins": 0,
+            "losses": 4,
+            "win_rate_percent": 0.0,
+            "profit_factor": 0.0,
+            "net_pnl": -49.10437977051493,
+            "return_percent": -4.910437977051496,
+            "expectancy_r": -1.2508746052276059,
+            "average_win": 0,
+            "average_loss": -12.276094942628733,
+            "maximum_drawdown_percent": 4.910437977051493,
+            "initial_balance": 1000.0,
+            "final_balance": 950.8956202294851
+          },
+          {
+            "symbol": "SOLUSDT",
+            "timeframe": "15m",
+            "trade_count": 5,
+            "wins": 1,
+            "losses": 4,
+            "win_rate_percent": 20.0,
+            "profit_factor": 0.2675921835952183,
+            "net_pnl": -34.9235992681951,
+            "return_percent": -3.4923599268195105,
+            "expectancy_r": -0.7032837841050471,
+            "average_win": 12.759670197205832,
+            "average_loss": -11.920817366350231,
+            "maximum_drawdown_percent": 3.7108106273481214,
+            "initial_balance": 1000.0,
+            "final_balance": 965.0764007318049
+          },
+          {
+            "symbol": "SOLUSDT",
+            "timeframe": "15m",
+            "trade_count": 2,
+            "wins": 1,
+            "losses": 1,
+            "win_rate_percent": 50.0,
+            "profit_factor": 1.027286151495037,
+            "net_pnl": 0.32063060171115687,
+            "return_percent": 0.03206306017111693,
+            "expectancy_r": 0.02320815548767008,
+            "average_win": 12.071302064833189,
+            "average_loss": -11.750671463122032,
+            "maximum_drawdown_percent": 1.1750671463121989,
+            "initial_balance": 1000.0,
+            "final_balance": 1000.3206306017112
+          }
+        ],
+        "positive_fold_ratio": 0.3333333333333333
+      },
+      "probability": {
+        "sample_size": 2,
+        "raw_win_rate_percent": 50.0,
+        "confidence_lower_bound_percent": 9.452865480086611,
+        "method": "Wilson 95% lower confidence bound"
+      },
+      "pattern_similarity": {
+        "status": "ready",
+        "sample_size": 100,
+        "positive_probability_percent": 53.0,
+        "average_forward_return_percent": 0.013308966862322072,
+        "median_forward_return_percent": 0.08558600286875384,
+        "average_similarity_distance": 0.3176802316478458,
+        "feature_count": 10,
+        "forward_bars": 12
+      },
+      "safety": {
+        "selection_basis": "parameters selected on train and validation only",
+        "test_data_used_for_selection": false
+      }
+    },
+    {
+      "version": "v2",
+      "symbol": "ETHUSDT",
+      "timeframe": "1h",
+      "approved": false,
+      "parameters": {
+        "minimum_score": 82.0,
+        "minimum_adx": 28.0,
+        "minimum_volume_ratio": 0.9,
+        "minimum_abs_delta": 0.03,
+        "require_sk": false,
+        "require_bos": false,
+        "allowed_sessions": [
+          "LONDON",
+          "NEW_YORK"
+        ]
+      },
+      "train_report": {
+        "symbol": "ETHUSDT",
+        "timeframe": "1h",
+        "trade_count": 6,
+        "wins": 2,
+        "losses": 4,
+        "win_rate_percent": 33.33333333333333,
+        "profit_factor": 0.6407376183517622,
+        "net_pnl": -15.478526945382976,
+        "return_percent": -1.5478526945382987,
+        "expectancy_r": -0.2527100621325025,
+        "average_win": 13.802829070326794,
+        "average_loss": -10.771046271509142,
+        "maximum_drawdown_percent": 2.91729632617745,
+        "initial_balance": 1000.0,
+        "final_balance": 984.521473054617
+      },
+      "validation_report": {
+        "symbol": "ETHUSDT",
+        "timeframe": "1h",
+        "trade_count": 3,
+        "wins": 2,
+        "losses": 1,
+        "win_rate_percent": 66.66666666666666,
+        "profit_factor": 2.547102083538079,
+        "net_pnl": 17.203313421007167,
+        "return_percent": 1.7203313421007227,
+        "expectancy_r": 0.5773224751302007,
+        "average_win": 14.161507480552572,
+        "average_loss": -11.119701540097978,
+        "maximum_drawdown_percent": 1.1119701540097937,
+        "initial_balance": 1000.0,
+        "final_balance": 1017.2033134210072
+      },
+      "test_report": {
+        "symbol": "ETHUSDT",
+        "timeframe": "1h",
+        "trade_count": 0,
+        "wins": 0,
+        "losses": 0,
+        "win_rate_percent": 0,
+        "profit_factor": 0,
+        "net_pnl": 0,
+        "return_percent": 0.0,
+        "expectancy_r": 0,
+        "average_win": 0,
+        "average_loss": 0,
+        "maximum_drawdown_percent": 0,
+        "initial_balance": 1000.0,
+        "final_balance": 1000.0
+      },
+      "walk_forward": {
+        "status": "success",
+        "parameters": {
+          "minimum_score": 82.0,
+          "minimum_adx": 28.0,
+          "minimum_volume_ratio": 0.9,
+          "minimum_abs_delta": 0.03,
+          "require_sk": false,
+          "require_bos": false,
+          "allowed_sessions": [
+            "LONDON",
+            "NEW_YORK"
+          ]
+        },
+        "folds": [
+          {
+            "symbol": "ETHUSDT",
+            "timeframe": "1h",
+            "trade_count": 1,
+            "wins": 1,
+            "losses": 0,
+            "win_rate_percent": 100.0,
+            "profit_factor": Infinity,
+            "net_pnl": 14.105948637773718,
+            "return_percent": 1.4105948637773702,
+            "expectancy_r": 1.4105948637773718,
+            "average_win": 14.105948637773718,
+            "average_loss": 0,
+            "maximum_drawdown_percent": 0,
+            "initial_balance": 1000.0,
+            "final_balance": 1014.1059486377737
+          },
+          {
+            "symbol": "ETHUSDT",
+            "timeframe": "1h",
+            "trade_count": 3,
+            "wins": 2,
+            "losses": 1,
+            "win_rate_percent": 66.66666666666666,
+            "profit_factor": 2.547102083538079,
+            "net_pnl": 17.203313421007167,
+            "return_percent": 1.7203313421007227,
+            "expectancy_r": 0.5773224751302007,
+            "average_win": 14.161507480552572,
+            "average_loss": -11.119701540097978,
+            "maximum_drawdown_percent": 1.1119701540097937,
+            "initial_balance": 1000.0,
+            "final_balance": 1017.2033134210072
+          },
+          {
+            "symbol": "ETHUSDT",
+            "timeframe": "1h",
+            "trade_count": 0,
+            "wins": 0,
+            "losses": 0,
+            "win_rate_percent": 0,
+            "profit_factor": 0,
+            "net_pnl": 0,
+            "return_percent": 0.0,
+            "expectancy_r": 0,
+            "average_win": 0,
+            "average_loss": 0,
+            "maximum_drawdown_percent": 0,
+            "initial_balance": 1000.0,
+            "final_balance": 1000.0
+          }
+        ],
+        "positive_fold_ratio": 0.6666666666666666
+      },
+      "probability": {
+        "sample_size": 0,
+        "raw_win_rate_percent": 0.0,
+        "confidence_lower_bound_percent": 0.0,
+        "method": "Wilson 95% lower confidence bound"
+      },
+      "pattern_similarity": {
+        "status": "ready",
+        "sample_size": 100,
+        "positive_probability_percent": 54.0,
+        "average_forward_return_percent": 0.1623358873796248,
+        "median_forward_return_percent": 0.18415112009155798,
+        "average_similarity_distance": 0.4260719176379689,
+        "feature_count": 10,
+        "forward_bars": 12
+      },
+      "safety": {
+        "selection_basis": "parameters selected on train and validation only",
+        "test_data_used_for_selection": false
+      }
+    },
+    {
+      "version": "v2",
+      "symbol": "SOLUSDT",
+      "timeframe": "1h",
+      "approved": false,
+      "parameters": {
+        "minimum_score": 82.0,
+        "minimum_adx": 20.0,
+        "minimum_volume_ratio": 0.9,
+        "minimum_abs_delta": 0.15,
+        "require_sk": false,
+        "require_bos": false,
+        "allowed_sessions": [
+          "LONDON",
+          "NEW_YORK"
+        ]
+      },
+      "train_report": {
+        "symbol": "SOLUSDT",
+        "timeframe": "1h",
+        "trade_count": 3,
+        "wins": 2,
+        "losses": 1,
+        "win_rate_percent": 66.66666666666666,
+        "profit_factor": 2.4688566270405072,
+        "net_pnl": 16.426786937224474,
+        "return_percent": 1.6426786937224547,
+        "expectancy_r": 0.5514323245736313,
+        "average_win": 13.805085208575182,
+        "average_loss": -11.18338347992589,
+        "maximum_drawdown_percent": 1.1030884578335893,
+        "initial_balance": 1000.0,
+        "final_balance": 1016.4267869372245
+      },
+      "validation_report": {
+        "symbol": "SOLUSDT",
+        "timeframe": "1h",
+        "trade_count": 1,
+        "wins": 1,
+        "losses": 0,
+        "win_rate_percent": 100.0,
+        "profit_factor": Infinity,
+        "net_pnl": 14.123619281560414,
+        "return_percent": 1.4123619281560362,
+        "expectancy_r": 1.4123619281560413,
+        "average_win": 14.123619281560414,
+        "average_loss": 0,
+        "maximum_drawdown_percent": 0,
+        "initial_balance": 1000.0,
+        "final_balance": 1014.1236192815604
+      },
+      "test_report": {
+        "symbol": "SOLUSDT",
+        "timeframe": "1h",
+        "trade_count": 0,
+        "wins": 0,
+        "losses": 0,
+        "win_rate_percent": 0,
+        "profit_factor": 0,
+        "net_pnl": 0,
+        "return_percent": 0.0,
+        "expectancy_r": 0,
+        "average_win": 0,
+        "average_loss": 0,
+        "maximum_drawdown_percent": 0,
+        "initial_balance": 1000.0,
+        "final_balance": 1000.0
+      },
+      "walk_forward": {
+        "status": "success",
+        "parameters": {
+          "minimum_score": 82.0,
+          "minimum_adx": 20.0,
+          "minimum_volume_ratio": 0.9,
+          "minimum_abs_delta": 0.15,
+          "require_sk": false,
+          "require_bos": false,
+          "allowed_sessions": [
+            "LONDON",
+            "NEW_YORK"
+          ]
+        },
+        "folds": [
+          {
+            "symbol": "SOLUSDT",
+            "timeframe": "1h",
+            "trade_count": 2,
+            "wins": 1,
+            "losses": 1,
+            "win_rate_percent": 50.0,
+            "profit_factor": 1.2326725136395094,
+            "net_pnl": 2.5665836425087214,
+            "return_percent": 0.2566583642508613,
+            "expectancy_r": 0.13591243726266933,
+            "average_win": 13.597468220844654,
+            "average_loss": -11.030884578335932,
+            "maximum_drawdown_percent": 1.1030884578335987,
+            "initial_balance": 1000.0,
+            "final_balance": 1002.5665836425087
+          },
+          {
+            "symbol": "SOLUSDT",
+            "timeframe": "1h",
+            "trade_count": 1,
+            "wins": 1,
+            "losses": 0,
+            "win_rate_percent": 100.0,
+            "profit_factor": Infinity,
+            "net_pnl": 14.123619281560414,
+            "return_percent": 1.4123619281560362,
+            "expectancy_r": 1.4123619281560413,
+            "average_win": 14.123619281560414,
+            "average_loss": 0,
+            "maximum_drawdown_percent": 0,
+            "initial_balance": 1000.0,
+            "final_balance": 1014.1236192815604
+          },
+          {
+            "symbol": "SOLUSDT",
+            "timeframe": "1h",
+            "trade_count": 0,
+            "wins": 0,
+            "losses": 0,
+            "win_rate_percent": 0,
+            "profit_factor": 0,
+            "net_pnl": 0,
+            "return_percent": 0.0,
+            "expectancy_r": 0,
+            "average_win": 0,
+            "average_loss": 0,
+            "maximum_drawdown_percent": 0,
+            "initial_balance": 1000.0,
+            "final_balance": 1000.0
+          }
+        ],
+        "positive_fold_ratio": 0.6666666666666666
+      },
+      "probability": {
+        "sample_size": 0,
+        "raw_win_rate_percent": 0.0,
+        "confidence_lower_bound_percent": 0.0,
+        "method": "Wilson 95% lower confidence bound"
+      },
+      "pattern_similarity": {
+        "status": "ready",
+        "sample_size": 100,
+        "positive_probability_percent": 60.0,
+        "average_forward_return_percent": 0.32939416416699535,
+        "median_forward_return_percent": 0.3108927738806666,
+        "average_similarity_distance": 0.42974475547796925,
+        "feature_count": 10,
+        "forward_bars": 12
+      },
+      "safety": {
+        "selection_basis": "parameters selected on train and validation only",
+        "test_data_used_for_selection": false
+      }
+    },
+    {
+      "version": "v2",
+      "symbol": "ETHUSDT",
+      "timeframe": "15m",
+      "approved": false,
+      "parameters": {
+        "minimum_score": 78.0,
+        "minimum_adx": 24.0,
+        "minimum_volume_ratio": 1.1,
+        "minimum_abs_delta": 0.08,
+        "require_sk": false,
+        "require_bos": true,
+        "allowed_sessions": [
+          "LONDON",
+          "NEW_YORK"
+        ]
+      },
+      "train_report": {
+        "symbol": "ETHUSDT",
+        "timeframe": "15m",
+        "trade_count": 42,
+        "wins": 23,
+        "losses": 19,
+        "win_rate_percent": 54.761904761904766,
+        "profit_factor": 1.2681640773170157,
+        "net_pnl": 66.60918183474818,
+        "return_percent": 6.660918183474784,
+        "expectancy_r": 0.16162314289375998,
+        "average_win": 13.695601469628734,
+        "average_loss": -13.073139577195406,
+        "maximum_drawdown_percent": 4.250574170735185,
+        "initial_balance": 1000.0,
+        "final_balance": 1066.609181834748
+      },
+      "validation_report": {
+        "symbol": "ETHUSDT",
+        "timeframe": "15m",
+        "trade_count": 17,
+        "wins": 9,
+        "losses": 8,
+        "win_rate_percent": 52.94117647058824,
+        "profit_factor": 1.2660073934653249,
+        "net_pnl": 25.432998979875435,
+        "return_percent": 2.5432998979875165,
+        "expectancy_r": 0.1560267835159677,
+        "average_win": 13.449235513120575,
+        "average_loss": -11.951265079776217,
+        "maximum_drawdown_percent": 4.856723704309502,
+        "initial_balance": 1000.0,
+        "final_balance": 1025.4329989798753
+      },
+      "test_report": {
+        "symbol": "ETHUSDT",
+        "timeframe": "15m",
+        "trade_count": 10,
+        "wins": 2,
+        "losses": 8,
+        "win_rate_percent": 20.0,
+        "profit_factor": 0.24537114828987172,
+        "net_pnl": -73.68428509911509,
+        "return_percent": -7.368428509911517,
+        "expectancy_r": -0.7574145179477884,
+        "average_win": 11.979397292268603,
+        "average_loss": -12.205384960456536,
+        "maximum_drawdown_percent": 9.643996134022284,
+        "initial_balance": 1000.0,
+        "final_balance": 926.3157149008848
+      },
+      "walk_forward": {
+        "status": "success",
+        "parameters": {
+          "minimum_score": 78.0,
+          "minimum_adx": 24.0,
+          "minimum_volume_ratio": 1.1,
+          "minimum_abs_delta": 0.08,
+          "require_sk": false,
+          "require_bos": true,
+          "allowed_sessions": [
+            "LONDON",
+            "NEW_YORK"
+          ]
+        },
+        "folds": [
+          {
+            "symbol": "ETHUSDT",
+            "timeframe": "15m",
+            "trade_count": 16,
+            "wins": 8,
+            "losses": 8,
+            "win_rate_percent": 50.0,
+            "profit_factor": 1.0236499795669125,
+            "net_pnl": 2.3525170637488255,
+            "return_percent": 0.2352517063748838,
+            "expectancy_r": 0.022622391109630893,
+            "average_win": 12.728097911374283,
+            "average_loss": -12.434033278405678,
+            "maximum_drawdown_percent": 2.2559184961077836,
+            "initial_balance": 1000.0,
+            "final_balance": 1002.3525170637488
+          },
+          {
+            "symbol": "ETHUSDT",
+            "timeframe": "15m",
+            "trade_count": 18,
+            "wins": 9,
+            "losses": 9,
+            "win_rate_percent": 50.0,
+            "profit_factor": 1.0112664527495787,
+            "net_pnl": 1.264763454559164,
+            "return_percent": 0.12647634545592812,
+            "expectancy_r": 0.015219833493539935,
+            "average_win": 12.61377847124431,
+            "average_loss": -12.473249198515514,
+            "maximum_drawdown_percent": 5.9619062257558095,
+            "initial_balance": 1000.0,
+            "final_balance": 1001.2647634545592
+          },
+          {
+            "symbol": "ETHUSDT",
+            "timeframe": "15m",
+            "trade_count": 15,
+            "wins": 5,
+            "losses": 10,
+            "win_rate_percent": 33.33333333333333,
+            "profit_factor": 0.5347387926259909,
+            "net_pnl": -56.64133557178788,
+            "return_percent": -5.664133557178785,
+            "expectancy_r": -0.38074688968482195,
+            "average_win": 13.019920387230394,
+            "average_loss": -12.174093750793986,
+            "maximum_drawdown_percent": 9.643996134022286,
+            "initial_balance": 1000.0,
+            "final_balance": 943.3586644282121
+          }
+        ],
+        "positive_fold_ratio": 0.6666666666666666
+      },
+      "probability": {
+        "sample_size": 10,
+        "raw_win_rate_percent": 20.0,
+        "confidence_lower_bound_percent": 5.668094798069328,
+        "method": "Wilson 95% lower confidence bound"
+      },
+      "pattern_similarity": {
+        "status": "ready",
+        "sample_size": 100,
+        "positive_probability_percent": 50.0,
+        "average_forward_return_percent": 0.03346160383058428,
+        "median_forward_return_percent": -0.0004182291389542847,
+        "average_similarity_distance": 0.20617722608881825,
+        "feature_count": 10,
+        "forward_bars": 12
+      },
+      "safety": {
+        "selection_basis": "parameters selected on train and validation only",
+        "test_data_used_for_selection": false
+      }
+    }
+  ],
+  "best_setup": {
+    "version": "v2",
+    "symbol": "BTCUSDT",
+    "timeframe": "1h",
+    "approved": false,
+    "parameters": {
+      "minimum_score": 82.0,
+      "minimum_adx": 28.0,
+      "minimum_volume_ratio": 1.1,
+      "minimum_abs_delta": 0.03,
+      "require_sk": false,
+      "require_bos": false,
+      "allowed_sessions": [
+        "LONDON",
+        "NEW_YORK"
+      ]
+    },
+    "train_report": {
+      "symbol": "BTCUSDT",
+      "timeframe": "1h",
+      "trade_count": 2,
+      "wins": 2,
+      "losses": 0,
+      "win_rate_percent": 100.0,
+      "profit_factor": Infinity,
+      "net_pnl": 26.64189395319904,
+      "return_percent": 2.664189395319916,
+      "expectancy_r": 1.3233403212876325,
+      "average_win": 13.32094697659952,
+      "average_loss": 0,
+      "maximum_drawdown_percent": 0,
+      "initial_balance": 1000.0,
+      "final_balance": 1026.641893953199
+    },
+    "validation_report": {
+      "symbol": "BTCUSDT",
+      "timeframe": "1h",
+      "trade_count": 1,
+      "wins": 1,
+      "losses": 0,
+      "win_rate_percent": 100.0,
+      "profit_factor": Infinity,
+      "net_pnl": 14.467833642618025,
+      "return_percent": 1.4467833642618055,
+      "expectancy_r": 1.4467833642618024,
+      "average_win": 14.467833642618025,
+      "average_loss": 0,
+      "maximum_drawdown_percent": 0,
+      "initial_balance": 1000.0,
+      "final_balance": 1014.4678336426181
+    },
+    "test_report": {
+      "symbol": "BTCUSDT",
+      "timeframe": "1h",
+      "trade_count": 1,
+      "wins": 1,
+      "losses": 0,
+      "win_rate_percent": 100.0,
+      "profit_factor": Infinity,
+      "net_pnl": 13.225199269905742,
+      "return_percent": 1.322519926990573,
+      "expectancy_r": 1.3225199269905743,
+      "average_win": 13.225199269905742,
+      "average_loss": 0,
+      "maximum_drawdown_percent": 0,
+      "initial_balance": 1000.0,
+      "final_balance": 1013.2251992699057
+    },
+    "walk_forward": {
+      "status": "success",
+      "parameters": {
+        "minimum_score": 82.0,
+        "minimum_adx": 28.0,
+        "minimum_volume_ratio": 1.1,
+        "minimum_abs_delta": 0.03,
+        "require_sk": false,
+        "require_bos": false,
+        "allowed_sessions": [
+          "LONDON",
+          "NEW_YORK"
+        ]
+      },
+      "folds": [
+        {
+          "symbol": "BTCUSDT",
+          "timeframe": "1h",
+          "trade_count": 0,
+          "wins": 0,
+          "losses": 0,
+          "win_rate_percent": 0,
+          "profit_factor": 0,
+          "net_pnl": 0,
+          "return_percent": 0.0,
+          "expectancy_r": 0,
+          "average_win": 0,
+          "average_loss": 0,
+          "maximum_drawdown_percent": 0,
+          "initial_balance": 1000.0,
+          "final_balance": 1000.0
+        },
+        {
+          "symbol": "BTCUSDT",
+          "timeframe": "1h",
+          "trade_count": 2,
+          "wins": 2,
+          "losses": 0,
+          "win_rate_percent": 100.0,
+          "profit_factor": Infinity,
+          "net_pnl": 28.083655859423303,
+          "return_percent": 2.8083655859423295,
+          "expectancy_r": 1.3944736901190384,
+          "average_win": 14.041827929711651,
+          "average_loss": 0,
+          "maximum_drawdown_percent": 0,
+          "initial_balance": 1000.0,
+          "final_balance": 1028.0836558594233
+        },
+        {
+          "symbol": "BTCUSDT",
+          "timeframe": "1h",
+          "trade_count": 1,
+          "wins": 1,
+          "losses": 0,
+          "win_rate_percent": 100.0,
+          "profit_factor": Infinity,
+          "net_pnl": 13.225199269905742,
+          "return_percent": 1.322519926990573,
+          "expectancy_r": 1.3225199269905743,
+          "average_win": 13.225199269905742,
+          "average_loss": 0,
+          "maximum_drawdown_percent": 0,
+          "initial_balance": 1000.0,
+          "final_balance": 1013.2251992699057
+        }
+      ],
+      "positive_fold_ratio": 0.6666666666666666
+    },
+    "probability": {
+      "sample_size": 1,
+      "raw_win_rate_percent": 100.0,
+      "confidence_lower_bound_percent": 20.654329147389294,
+      "method": "Wilson 95% lower confidence bound"
+    },
+    "pattern_similarity": {
+      "status": "ready",
+      "sample_size": 100,
+      "positive_probability_percent": 41.0,
+      "average_forward_return_percent": -0.2902135677511524,
+      "median_forward_return_percent": -0.1804416636852879,
+      "average_similarity_distance": 0.5119757819353187,
+      "feature_count": 10,
+      "forward_bars": 12
+    },
+    "safety": {
+      "selection_basis": "parameters selected on train and validation only",
+      "test_data_used_for_selection": false
+    }
+  },
+  "errors": []
+}

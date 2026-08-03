@@ -1,0 +1,7972 @@
+{
+  "BTCUSDT": [
+    {
+      "timestamp": "2026-07-30T14:20:56.770791",
+      "buy_value": 156853.44,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:32:10.290464",
+      "buy_value": 0.0,
+      "sell_value": 181410.69,
+      "buy_count": 0,
+      "sell_count": 3
+    },
+    {
+      "timestamp": "2026-07-30T14:48:31.606935",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:04:36.387541",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:16:43.334159",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:25:54.262105",
+      "buy_value": 0.0,
+      "sell_value": 417409.46,
+      "buy_count": 0,
+      "sell_count": 3
+    },
+    {
+      "timestamp": "2026-07-30T15:29:33.009019",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:33:01.546297",
+      "buy_value": 0.0,
+      "sell_value": 646579.9,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-07-30T15:41:12.052674",
+      "buy_value": 485971.4,
+      "sell_value": 0.0,
+      "buy_count": 3,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:44:06.493095",
+      "buy_value": 0.0,
+      "sell_value": 97046.23,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-07-30T16:00:20.822548",
+      "buy_value": 254222.68,
+      "sell_value": 0.0,
+      "buy_count": 3,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:06:20.672497",
+      "buy_value": 64428.01,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:31:21.964680",
+      "buy_value": 0.0,
+      "sell_value": 289495.52,
+      "buy_count": 0,
+      "sell_count": 2
+    },
+    {
+      "timestamp": "2026-08-01T07:05:44.625402",
+      "buy_value": 0.0,
+      "sell_value": 478054.07,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T07:27:31.452588",
+      "buy_value": 120498.53,
+      "sell_value": 81957.86,
+      "buy_count": 1,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T07:29:21.396943",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T07:31:32.132269",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T07:37:33.558444",
+      "buy_value": 381292.0,
+      "sell_value": 50054.15,
+      "buy_count": 2,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T07:42:35.261050",
+      "buy_value": 0.0,
+      "sell_value": 126023.78,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T14:33:28.576828+00:00",
+      "buy_value": 79999.4,
+      "sell_value": 236451.93,
+      "buy_count": 1,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T14:54:08.883873+00:00",
+      "buy_value": 315470.26,
+      "sell_value": 0.0,
+      "buy_count": 5,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T14:59:42.499901+00:00",
+      "buy_value": 397023.05,
+      "sell_value": 0.0,
+      "buy_count": 3,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T15:27:02.092809+00:00",
+      "buy_value": 0.0,
+      "sell_value": 54565.35,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T15:31:18.159390+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T15:51:54.887903+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T15:53:08.676072+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:16:53.380756+00:00",
+      "buy_value": 62901.04,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:30:26.643000+00:00",
+      "buy_value": 0.0,
+      "sell_value": 87899.11,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T16:30:45.518948+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:31:02.002365+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:31:52.005676+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:47:20.100387+00:00",
+      "buy_value": 0.0,
+      "sell_value": 241254.91,
+      "buy_count": 0,
+      "sell_count": 2
+    },
+    {
+      "timestamp": "2026-08-01T16:50:13.880765+00:00",
+      "buy_value": 0.0,
+      "sell_value": 274031.92,
+      "buy_count": 0,
+      "sell_count": 2
+    },
+    {
+      "timestamp": "2026-08-01T17:04:57.775941+00:00",
+      "buy_value": 60036.24,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:05:28.208589+00:00",
+      "buy_value": 60036.24,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:08:06.954075+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:15:11.754628+00:00",
+      "buy_value": 59808.24,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:16:04.193256+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:16:49.746263+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:19:01.864987+00:00",
+      "buy_value": 101184.86,
+      "sell_value": 0.0,
+      "buy_count": 2,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:21:16.403692+00:00",
+      "buy_value": 101184.86,
+      "sell_value": 251515.24,
+      "buy_count": 2,
+      "sell_count": 4
+    },
+    {
+      "timestamp": "2026-08-01T17:38:36.063207+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:40:03.419212+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:41:46.108549+00:00",
+      "buy_value": 53404.27,
+      "sell_value": 125535.98,
+      "buy_count": 1,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T18:06:44.913593+00:00",
+      "buy_value": 253791.06,
+      "sell_value": 0.0,
+      "buy_count": 2,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T18:11:17.228936+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-02T03:20:36.746082+00:00",
+      "buy_value": 62177.09,
+      "sell_value": 74104.16,
+      "buy_count": 1,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-02T03:47:47.061266+00:00",
+      "buy_value": 538071.28,
+      "sell_value": 475702.73,
+      "buy_count": 4,
+      "sell_count": 3
+    },
+    {
+      "timestamp": "2026-08-02T03:52:41.754623+00:00",
+      "buy_value": 0.0,
+      "sell_value": 214679.46,
+      "buy_count": 0,
+      "sell_count": 3
+    },
+    {
+      "timestamp": "2026-08-02T03:57:40.760113+00:00",
+      "buy_value": 0.0,
+      "sell_value": 148778.94,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-02T04:13:59.584341+00:00",
+      "buy_value": 711196.46,
+      "sell_value": 183548.78,
+      "buy_count": 4,
+      "sell_count": 2
+    },
+    {
+      "timestamp": "2026-08-02T04:18:01.389263+00:00",
+      "buy_value": 0.0,
+      "sell_value": 54037.58,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-02T04:19:29.007680+00:00",
+      "buy_value": 0.0,
+      "sell_value": 54037.58,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-02T04:34:36.691182+00:00",
+      "buy_value": 177841.82,
+      "sell_value": 50852.03,
+      "buy_count": 3,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-02T04:43:34.092691+00:00",
+      "buy_value": 0.0,
+      "sell_value": 179312.59,
+      "buy_count": 0,
+      "sell_count": 2
+    },
+    {
+      "timestamp": "2026-08-02T04:50:37.026744+00:00",
+      "buy_value": 0.0,
+      "sell_value": 51022.25,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-02T05:05:58.050880+00:00",
+      "buy_value": 0.0,
+      "sell_value": 253067.84,
+      "buy_count": 0,
+      "sell_count": 3
+    },
+    {
+      "timestamp": "2026-08-02T13:34:04.619955+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-02T13:41:42.935282+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-02T15:26:31.073378+00:00",
+      "buy_value": 287597.15,
+      "sell_value": 351609.1,
+      "buy_count": 2,
+      "sell_count": 5
+    }
+  ],
+  "ETHUSDT": [
+    {
+      "timestamp": "2026-07-30T14:20:59.453808",
+      "buy_value": 71522.18,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:32:13.525119",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:48:34.633427",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:04:39.606977",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:16:46.615883",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:25:57.355665",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:29:36.214512",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:33:04.522549",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:41:15.098885",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:44:09.650601",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T16:00:23.848563",
+      "buy_value": 61577.05,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:06:23.640271",
+      "buy_value": 0.0,
+      "sell_value": 61064.29,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-07-31T04:31:25.170187",
+      "buy_value": 102511.19,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T07:05:47.624380",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T07:27:34.468241",
+      "buy_value": 0.0,
+      "sell_value": 52095.89,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T07:29:24.590047",
+      "buy_value": 0.0,
+      "sell_value": 52095.89,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T07:31:35.045702",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T07:37:36.871526",
+      "buy_value": 0.0,
+      "sell_value": 58409.2,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T07:42:38.278286",
+      "buy_value": 96456.87,
+      "sell_value": 58409.2,
+      "buy_count": 1,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T14:33:31.612879+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T14:54:12.371637+00:00",
+      "buy_value": 113989.0,
+      "sell_value": 158159.11,
+      "buy_count": 2,
+      "sell_count": 2
+    },
+    {
+      "timestamp": "2026-08-01T14:59:45.564558+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T15:27:05.166658+00:00",
+      "buy_value": 0.0,
+      "sell_value": 59409.96,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T15:31:21.340906+00:00",
+      "buy_value": 0.0,
+      "sell_value": 83704.81,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T15:51:58.170227+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T15:53:12.666573+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:16:56.403179+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:30:29.730749+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:30:48.558931+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:31:04.883611+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:31:56.087355+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:47:23.134529+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:50:17.163822+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:05:00.875241+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:05:31.545457+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:08:09.999838+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:15:14.813956+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:16:07.375675+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:16:52.868213+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:19:04.907335+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:21:19.485239+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:38:39.214396+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:40:06.589049+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:41:49.173255+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T18:06:47.901383+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T18:11:20.351639+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-02T03:20:33.506064+00:00",
+      "buy_value": 121865.33,
+      "sell_value": 0.0,
+      "buy_count": 2,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-02T03:47:44.095566+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-02T03:52:38.567352+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-02T03:57:37.500671+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-02T04:13:56.384987+00:00",
+      "buy_value": 57024.48,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-02T04:17:58.388259+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-02T04:19:25.959595+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-02T04:34:33.531899+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-02T04:43:30.983496+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-02T04:50:33.682781+00:00",
+      "buy_value": 266048.0,
+      "sell_value": 0.0,
+      "buy_count": 2,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-02T05:06:01.368683+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-02T13:34:07.839825+00:00",
+      "buy_value": 0.0,
+      "sell_value": 75008.63,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-02T13:41:46.085406+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-02T15:26:34.224529+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    }
+  ],
+  "SOLUSDT": [
+    {
+      "timestamp": "2026-07-30T14:21:02.183909",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:32:16.084788",
+      "buy_value": 53574.25,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:48:37.603110",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:04:42.796449",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:16:49.808907",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:26:00.573263",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:29:39.321465",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:33:07.389990",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:41:18.361435",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:44:13.197009",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T16:00:26.926741",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:06:26.712620",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:31:28.358571",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T07:05:50.505632",
+      "buy_value": 348129.41,
+      "sell_value": 67253.26,
+      "buy_count": 4,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T07:27:37.266485",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T07:29:27.636832",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T07:31:37.924382",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T07:37:39.904222",
+      "buy_value": 128337.95,
+      "sell_value": 0.0,
+      "buy_count": 2,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T07:42:41.172140",
+      "buy_value": 128337.95,
+      "sell_value": 0.0,
+      "buy_count": 2,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T14:33:34.546868+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T14:54:15.927042+00:00",
+      "buy_value": 0.0,
+      "sell_value": 62047.48,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T14:59:48.637250+00:00",
+      "buy_value": 0.0,
+      "sell_value": 52717.75,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T15:27:08.207596+00:00",
+      "buy_value": 0.0,
+      "sell_value": 145056.74,
+      "buy_count": 0,
+      "sell_count": 2
+    },
+    {
+      "timestamp": "2026-08-01T15:31:24.401833+00:00",
+      "buy_value": 0.0,
+      "sell_value": 145056.74,
+      "buy_count": 0,
+      "sell_count": 2
+    },
+    {
+      "timestamp": "2026-08-01T15:52:01.250619+00:00",
+      "buy_value": 86324.53,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T15:53:15.759043+00:00",
+      "buy_value": 86324.53,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:16:59.715213+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:30:32.679917+00:00",
+      "buy_value": 77552.69,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:30:51.512303+00:00",
+      "buy_value": 77552.69,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:31:07.956957+00:00",
+      "buy_value": 77552.69,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:31:59.094304+00:00",
+      "buy_value": 77552.69,
+      "sell_value": 59309.86,
+      "buy_count": 1,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T16:47:26.124176+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:50:20.224146+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:05:05.748696+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:05:34.572870+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:08:13.066657+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:15:17.804548+00:00",
+      "buy_value": 0.0,
+      "sell_value": 72424.18,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T17:16:10.372456+00:00",
+      "buy_value": 0.0,
+      "sell_value": 72424.18,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T17:16:56.035378+00:00",
+      "buy_value": 0.0,
+      "sell_value": 72424.18,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T17:19:07.948653+00:00",
+      "buy_value": 0.0,
+      "sell_value": 101444.0,
+      "buy_count": 0,
+      "sell_count": 2
+    },
+    {
+      "timestamp": "2026-08-01T17:21:22.627049+00:00",
+      "buy_value": 0.0,
+      "sell_value": 101444.0,
+      "buy_count": 0,
+      "sell_count": 2
+    },
+    {
+      "timestamp": "2026-08-01T17:38:42.340291+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:40:09.765242+00:00",
+      "buy_value": 59230.41,
+      "sell_value": 109473.22,
+      "buy_count": 1,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T17:41:52.237321+00:00",
+      "buy_value": 59230.41,
+      "sell_value": 109473.22,
+      "buy_count": 1,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T18:06:51.144810+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T18:11:23.450932+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-02T03:20:39.769550+00:00",
+      "buy_value": 0.0,
+      "sell_value": 56808.5,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-02T03:47:50.404308+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-02T03:52:45.062776+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-02T03:57:44.024646+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-02T04:14:03.056046+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-02T04:18:04.732212+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-02T04:19:32.094415+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-02T04:34:39.735930+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-02T04:43:37.117001+00:00",
+      "buy_value": 0.0,
+      "sell_value": 390791.55,
+      "buy_count": 0,
+      "sell_count": 6
+    },
+    {
+      "timestamp": "2026-08-02T04:50:40.229505+00:00",
+      "buy_value": 0.0,
+      "sell_value": 126789.85,
+      "buy_count": 0,
+      "sell_count": 2
+    },
+    {
+      "timestamp": "2026-08-02T05:06:04.864138+00:00",
+      "buy_value": 171353.44,
+      "sell_value": 0.0,
+      "buy_count": 3,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-02T13:34:10.905373+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-02T13:41:49.339364+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-02T15:26:37.406073+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    }
+  ],
+  "XRPUSDT": [
+    {
+      "timestamp": "2026-07-24T03:29:49.917419",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:59:11.087774",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T04:31:50.693377",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:13:11.024089",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:31:01.820542",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:42:46.144965",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:00:18.889453",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:24:43.797804",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:26:15.106770",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:45:35.238910",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:00:53.957939",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:02:26.722434",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T15:41:46.953428",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:37:04.171917",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:48:27.363942",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:51:20.597648",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:07:30.740133",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:12:30.716886",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:16:18.123252",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:24:20.545927",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:34:46.462788",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:38:32.575839",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:14:50.618806",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:17:47.609052",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T04:56:35.179506",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T04:59:58.450932",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:30:19.313766",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:15:29.966138",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:21:04.935227",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:32:18.922481",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:48:40.242524",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:04:46.166716",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:16:52.829671",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:26:03.626871",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:29:42.531582",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:33:10.487499",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:41:21.628465",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:44:16.480641",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T16:00:30.095178",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:06:33.083964",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:31:34.542131",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T07:05:53.565702",
+      "buy_value": 273685.74,
+      "sell_value": 313739.23,
+      "buy_count": 4,
+      "sell_count": 4
+    },
+    {
+      "timestamp": "2026-08-01T07:27:40.182009",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T07:29:30.931514",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T07:31:40.939687",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T15:27:14.292928+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T15:31:30.377549+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:17:05.865506+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:31:14.141766+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:32:05.685172+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:50:26.351923+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:05:14.170201+00:00",
+      "buy_value": 51821.81,
+      "sell_value": 135296.28,
+      "buy_count": 1,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T17:08:19.461703+00:00",
+      "buy_value": 51821.81,
+      "sell_value": 135296.28,
+      "buy_count": 1,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T17:15:24.137191+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:16:16.395832+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:17:01.967990+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:19:14.166492+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:21:28.769045+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:40:16.096546+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:41:58.587939+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    }
+  ],
+  "BNBUSDT": [
+    {
+      "timestamp": "2026-07-18T04:39:53.924048",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:56:53.298170",
+      "buy_value": 81111.53,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:11:35.611433",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:26:29.244739",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:29:55.195481",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:59:16.662379",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T04:31:56.261822",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:13:16.755514",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:31:08.624479",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:42:52.808455",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:00:24.666945",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:24:49.330682",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:26:20.854774",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T05:01:45.471331",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:00:59.615920",
+      "buy_value": 160200.26,
+      "sell_value": 0.0,
+      "buy_count": 2,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:02:32.479905",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T15:41:54.107372",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:37:07.022923",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:48:30.066210",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:51:23.385515",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:07:33.556684",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:12:33.739559",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:16:20.895030",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:24:23.379523",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:34:52.205879",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:38:38.005754",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:14:56.059706",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:17:53.176202",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T04:56:41.050812",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:00:07.123791",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:30:24.996583",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:15:32.837874",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:21:07.772340",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:32:21.599267",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:48:43.161443",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:04:49.117526",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:16:55.884932",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:26:06.912351",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:29:45.664516",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:33:13.663409",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:41:24.960319",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:44:19.876982",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T16:00:33.165941",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:06:29.833815",
+      "buy_value": 61320.59,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:31:31.553160",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T15:27:11.335973+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T15:31:27.272560+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:17:02.818544+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:31:10.985132+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:32:02.248620+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:50:23.161792+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:05:08.782401+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:08:16.172911+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:15:20.964804+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:16:13.436970+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:16:59.082745+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:19:11.105902+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:21:25.836071+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:40:13.011268+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:41:55.670344+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    }
+  ],
+  "DOGEUSDT": [
+    {
+      "timestamp": "2026-07-18T03:23:51.174957",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T03:49:20.864101",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:01:46.333985",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:19:25.153850",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:37:08.662779",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:39:56.979652",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:56:56.482828",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:11:32.874669",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:26:26.454350",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:29:52.465117",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:59:13.813812",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T04:31:53.526421",
+      "buy_value": 0.0,
+      "sell_value": 53713.79,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-07-26T03:13:08.283926",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:30:58.813680",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:42:43.314398",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:00:16.039178",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:24:40.768198",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:26:12.558589",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:27:45.461865",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:00:51.263846",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:02:23.892849",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T15:41:44.047599",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:37:01.300234",
+      "buy_value": 120567.97,
+      "sell_value": 0.0,
+      "buy_count": 2,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:48:24.621060",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:51:17.601880",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:07:27.977129",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:12:27.952102",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:16:15.356849",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:24:17.775500",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:34:49.366859",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:38:35.283547",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:14:53.372039",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:17:50.343055",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T04:56:38.042422",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:00:02.506600",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:30:22.065513",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:15:35.554979",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:21:10.728709",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:32:24.245671",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:48:46.054126",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:04:52.345466",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:16:59.136042",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:26:10.054779",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:29:49.804582",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:33:18.841248",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:41:28.246045",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:44:25.113211",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T16:00:36.320025",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:06:36.042711",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:31:37.845990",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T07:05:56.574366",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T07:27:43.190480",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T07:29:33.843988",
+      "buy_value": 0.0,
+      "sell_value": 69986.07,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T07:31:43.810990",
+      "buy_value": 0.0,
+      "sell_value": 69986.07,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T16:17:09.600169+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:17:05.035450+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:19:18.289188+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:21:31.743897+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:40:20.174568+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:42:01.848185+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    }
+  ],
+  "ADAUSDT": [
+    {
+      "timestamp": "2026-07-18T03:23:53.896317",
+      "buy_value": 72049.01,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T03:49:23.921145",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:01:49.234645",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:19:28.060108",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:37:11.902656",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:40:01.150577",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:57:00.700163",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:11:40.271752",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:26:32.033059",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:29:57.998034",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:59:19.376565",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T04:32:00.112186",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:13:19.488585",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:31:11.281368",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:42:55.929044",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:00:27.577901",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:24:52.044382",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:26:23.580734",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T05:19:11.535567",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:01:04.526896",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:02:35.276349",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T15:41:56.808057",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:37:22.590391",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:48:46.399211",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:51:37.668900",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:07:48.731451",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:12:49.132272",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:16:35.392295",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:24:38.562892",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:34:55.049398",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:38:41.524134",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:14:58.895853",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:17:57.154822",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T04:56:43.874056",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:00:10.932548",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:30:27.778303",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:15:38.415220",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:21:14.619241",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:32:26.867719",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:48:48.727580",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:04:55.540843",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:17:02.383783",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:26:13.076853",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:29:53.006231",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:33:22.080096",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:41:31.345634",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:44:28.302788",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T16:00:39.529157",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:06:43.333355",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:31:44.361829",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:17:12.814162+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:17:08.129670+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:19:21.366539+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:21:36.214990+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:40:23.272721+00:00",
+      "buy_value": 55336.34,
+      "sell_value": 51871.47,
+      "buy_count": 1,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T17:42:04.891306+00:00",
+      "buy_value": 55336.34,
+      "sell_value": 51871.47,
+      "buy_count": 1,
+      "sell_count": 1
+    }
+  ],
+  "NEARUSDT": [
+    {
+      "timestamp": "2026-07-18T03:23:57.541665",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T03:49:26.976577",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:01:52.276405",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:19:31.256779",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:37:16.996214",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:40:04.868376",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:57:03.565916",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:11:49.294306",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:26:40.449381",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:30:08.082665",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:59:27.804200",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T04:32:08.723364",
+      "buy_value": 0.0,
+      "sell_value": 57422.75,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-07-26T03:13:26.092884",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:31:17.009397",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:43:02.704587",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:00:33.107130",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:24:57.616041",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:26:30.931160",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:01:18.822820",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:02:49.269816",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T15:42:10.707102",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:37:31.293120",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:48:56.161906",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:51:46.093572",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:07:57.148611",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:12:58.355680",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:16:44.126807",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:24:47.113819",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:35:00.741897",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:38:47.794922",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:15:06.641210",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:18:02.578984",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T04:56:53.992338",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:00:19.133636",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:30:36.065320",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:15:47.146399",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:21:23.091348",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:32:34.531348",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:48:57.834049",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:05:06.133946",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:17:11.688851",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:26:22.762334",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:30:04.194553",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:33:31.383640",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:41:40.729030",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:44:37.788716",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T16:00:49.017224",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:06:46.378569",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:31:47.488246",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:17:22.452243+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:17:17.878222+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:19:30.730014+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:21:45.809594+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:40:33.624044+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:42:16.019300+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    }
+  ],
+  "SUIUSDT": [
+    {
+      "timestamp": "2026-07-18T03:24:00.411493",
+      "buy_value": 0.0,
+      "sell_value": 72566.28,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-07-18T03:49:30.238261",
+      "buy_value": 0.0,
+      "sell_value": 72566.28,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-07-18T04:01:55.316510",
+      "buy_value": 0.0,
+      "sell_value": 72566.28,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-07-18T04:19:34.221659",
+      "buy_value": 0.0,
+      "sell_value": 72566.28,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-07-18T04:37:19.997700",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:40:07.979463",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:57:06.689889",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:11:43.268477",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:26:34.770172",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:30:02.355048",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:59:22.204591",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T04:32:02.911016",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:13:23.269492",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:31:14.292095",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:42:58.664345",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:00:30.434783",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:24:54.814151",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:26:27.224074",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T05:34:30.601996",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:01:07.243496",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:02:38.079580",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T15:42:02.587180",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:37:19.737367",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:48:43.619385",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:51:34.700481",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:07:45.614809",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:12:43.456181",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:16:29.594861",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:24:31.794348",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:35:07.137593",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:38:53.466589",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:15:13.238350",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:18:07.993748",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T04:56:56.918652",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:00:21.991946",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:30:39.037062",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:21:28.703081",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:32:39.941837",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:49:03.489710",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:05:12.486035",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:17:18.285310",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:26:29.249410",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:30:11.266142",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:33:37.715236",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:41:47.103489",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:44:44.267365",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T16:00:55.084550",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:06:49.624234",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:31:50.683799",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:17:28.584415+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:17:24.010129+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:19:36.747718+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:21:52.046298+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:40:40.071284+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:42:22.226632+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    }
+  ],
+  "LINKUSDT": [
+    {
+      "timestamp": "2026-07-18T03:24:03.302099",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T03:49:33.293552",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:01:58.178873",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:19:37.031581",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:37:23.039478",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:40:10.863831",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:57:09.663194",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:11:52.275270",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:26:43.308782",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:30:10.834721",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:59:30.665720",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T04:32:11.725741",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:13:31.750050",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:31:23.593537",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:43:08.313511",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:00:39.861919",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:25:00.431597",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:26:33.810042",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T05:50:11.640225",
+      "buy_value": 57080.33,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:01:16.041070",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:02:46.480381",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T15:42:08.132969",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:37:25.618730",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:48:50.331819",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:51:40.470549",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:07:51.708464",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:12:53.003975",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:16:38.353370",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:24:41.402329",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:35:09.950617",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:38:56.316936",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:15:16.067698",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:18:10.825480",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T04:56:59.573028",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:00:24.675998",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:30:41.692124",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:21:25.855685",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:32:37.252431",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:49:00.630467",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:05:09.332373",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:17:15.126625",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:26:25.957494",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:30:07.724780",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:33:34.506778",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:41:43.964339",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:44:41.075750",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T16:00:52.081562",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:06:56.161820",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:31:57.083052",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:17:25.545776+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:17:21.047877+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:19:33.761231+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:21:48.987861+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:40:36.856640+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:42:19.210655+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    }
+  ],
+  "BCHUSDT": [
+    {
+      "timestamp": "2026-07-18T03:24:06.049855",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T03:49:36.389952",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:02:01.316579",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:19:40.039492",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:37:26.496784",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:40:13.763749",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:57:12.663200",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:12:00.732363",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:26:51.440833",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:30:19.137584",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:59:39.958657",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T04:32:21.214265",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:13:52.572007",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:31:44.270720",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:43:29.420936",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:00:59.364913",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:25:24.046485",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:26:57.187970",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T07:14:14.541959",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:01:38.527706",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:03:10.443363",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T15:42:31.499908",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:37:48.373325",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:49:13.136624",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:52:04.002034",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:08:14.362530",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:13:16.181409",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:17:00.669974",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:25:06.619250",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:35:19.829702",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:39:04.827338",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:15:24.703388",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:18:20.358424",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T04:57:06.393121",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:00:30.260223",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:30:47.486689",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:21:32.100398",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:32:43.088416",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:49:06.292265",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:05:15.481815",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:17:21.702981",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:26:33.582110",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:30:14.403732",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:33:41.010027",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:41:50.181297",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:44:47.656192",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T16:00:58.168066",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:06:59.325421",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:32:00.251271",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:17:40.740675+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:17:36.327254+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:19:49.858090+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:22:03.559766+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:40:52.434712+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:42:35.134675+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    }
+  ],
+  "UNIUSDT": [
+    {
+      "timestamp": "2026-07-18T03:24:08.909039",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T03:49:42.459123",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:02:07.255430",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:19:46.331410",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:37:32.357223",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:40:20.665545",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:57:20.575080",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:11:55.082429",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:26:45.962076",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:30:13.557045",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:59:34.528103",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T04:32:15.438912",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:13:28.820632",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:31:20.785270",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:43:05.431998",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:00:37.044862",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:25:04.427616",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:26:36.825698",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T05:50:15.800740",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:01:10.240919",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:02:41.010984",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T15:41:59.658537",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:37:13.879270",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:48:38.079344",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:51:29.018910",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:07:40.106361",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:12:40.720680",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:16:26.716404",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:24:28.914394",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:35:04.380885",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:38:50.689797",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:15:09.475749",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:18:05.260213",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T04:56:51.139134",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:00:16.427666",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:30:33.235933",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:15:41.243363",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:21:17.365716",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:32:29.458279",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:48:51.380742",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:04:58.578691",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:17:05.352593",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:26:16.191960",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:29:56.005044",
+      "buy_value": 76821.44,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:33:25.076765",
+      "buy_value": 76821.44,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:41:34.549010",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:44:31.576514",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T16:00:42.586157",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:06:40.297372",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:31:40.955326",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:17:19.260398+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:17:14.486290+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:19:27.675030+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:21:42.630049+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:40:30.390519+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:42:13.125944+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    }
+  ],
+  "AAVEUSDT": [
+    {
+      "timestamp": "2026-07-18T03:24:11.750266",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T03:49:39.272082",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:02:04.283168",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:19:43.255463",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:37:29.417299",
+      "buy_value": 68163.23,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:40:17.637653",
+      "buy_value": 68163.23,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:57:16.508568",
+      "buy_value": 68163.23,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:11:57.965954",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:26:48.726043",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:30:16.316547",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:59:37.282373",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T04:32:18.405674",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:13:34.445373",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:31:27.448886",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:43:11.087006",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:00:42.741199",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:25:07.343701",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:26:39.545745",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T05:50:19.238038",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:01:13.102637",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:02:43.752358",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T15:42:05.229902",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:37:16.592744",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:48:40.880800",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:51:31.700463",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:07:42.860814",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:12:46.209265",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:16:32.586416",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:24:34.719251",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:34:57.805374",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:38:44.499514",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:15:03.867958",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:17:59.943369",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T04:56:48.491272",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:00:13.636576",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:30:30.437284",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:15:44.305422",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:21:20.116288",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:32:32.111535",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:48:55.171131",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:05:03.023404",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:17:08.682194",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:26:19.422237",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:29:59.062942",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:33:28.316695",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:41:37.565664",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:44:34.722803",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T16:00:45.959238",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:06:53.068281",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:31:53.843878",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:17:16.018527+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:17:11.432216+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:19:24.410874+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:21:39.501213+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:40:26.348552+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:42:08.879219+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    }
+  ],
+  "AVAXUSDT": [
+    {
+      "timestamp": "2026-07-18T03:24:14.549551",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T03:49:45.432632",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:02:10.351944",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:19:49.332537",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:37:35.127974",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:40:23.595948",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:57:23.638060",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:11:46.289961",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:26:37.675862",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:30:05.354555",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:59:25.227053",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T04:32:05.917693",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:13:14.021470",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:31:04.704335",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:42:49.022704",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:00:21.770931",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:24:46.477631",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:26:18.030817",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:45:38.955781",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:00:56.647087",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:02:29.692712",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T15:41:50.286217",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:37:11.027475",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:48:35.147707",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:51:26.180781",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:07:37.464386",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:12:36.605383",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:16:23.990558",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:24:25.999735",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:35:13.966078",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:38:59.239658",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:15:18.805983",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:18:14.627647",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T04:57:02.485552",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:00:27.441737",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:30:44.693646",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:21:38.790761",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:32:49.309005",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:49:12.145957",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:05:21.598002",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:17:27.868089",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:26:39.876984",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:30:20.722155",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:33:47.410613",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:41:57.853509",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:44:54.041413",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T16:01:04.638833",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:07:05.444301",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:32:06.096684",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:17:34.744309+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:17:30.266762+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:19:42.789809+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:21:57.873491+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:40:46.168814+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:42:29.376609+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    }
+  ],
+  "LTCUSDT": [
+    {
+      "timestamp": "2026-07-18T03:24:17.389644",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T03:49:48.428144",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:02:15.385530",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:19:52.348440",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:37:38.011215",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:40:26.619012",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:57:26.643901",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:12:03.561463",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:26:54.358066",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:30:21.961323",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:59:42.788213",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T04:32:24.061279",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:13:45.828465",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:31:38.696341",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:43:23.597445",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:00:53.800295",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:25:18.443726",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:26:50.565658",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T06:23:16.681147",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:01:21.437203",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:02:53.136285",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T15:42:14.713512",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:37:28.544869",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:48:53.292195",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:51:43.385916",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:07:54.480080",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:12:55.564835",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:16:41.336195",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:24:44.312387",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:35:16.794268",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:39:01.938831",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:15:21.801655",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:18:17.697184",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T04:57:11.961314",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:00:35.793448",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:30:53.365846",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:21:41.666865",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:32:52.203150",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:49:14.916876",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:05:24.802933",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:17:31.037395",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:26:44.355630",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:30:23.969699",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:33:50.398495",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:42:00.948296",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:44:57.361517",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T16:01:07.645894",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:07:11.932881",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:32:12.501868",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:17:31.717903+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:17:27.098701+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:19:39.772839+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:21:54.921712+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:40:42.989584+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:42:25.249873+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    }
+  ],
+  "DOTUSDT": [
+    {
+      "timestamp": "2026-07-18T03:24:20.343806",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T03:49:52.263144",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:02:18.315777",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:19:55.384768",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:37:40.833330",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:40:29.435392",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:57:29.763420",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:12:09.016214",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:27:02.549704",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:30:30.313112",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:59:52.457410",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T04:32:34.619989",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:13:40.143475",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:31:33.083863",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:43:17.983018",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:00:48.262443",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:25:15.836586",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:26:47.918963",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T06:06:58.221756",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:01:32.664126",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:03:04.724357",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T15:42:25.861780",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:37:42.740890",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:49:10.315841",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:52:01.167121",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:08:11.443083",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:13:13.357269",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:16:57.974594",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:24:59.497057",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:35:25.414807",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:39:10.733405",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:15:30.197626",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:18:27.098245",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T04:57:14.738653",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:00:38.574013",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:30:56.266879",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:21:47.430965",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:32:58.393044",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:49:20.524941",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:05:32.194335",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:17:37.403796",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:26:51.170964",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:30:32.113918",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:33:56.649215",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:42:07.304849",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:45:06.375238",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T16:01:14.000461",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:07:18.022374",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:32:20.163286",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:17:46.758664+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:17:44.665727+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:19:56.187242+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:22:10.967553+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:40:58.645650+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:42:41.265822+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    }
+  ],
+  "ARBUSDT": [
+    {
+      "timestamp": "2026-07-18T03:24:23.331833",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T03:49:54.975685",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:02:21.400034",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:19:58.359792",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:37:45.059608",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:40:32.317190",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:57:37.102267",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:12:17.031863",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:27:09.227472",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:30:35.968494",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:59:58.500423",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T04:32:41.318437",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:07:21.147242",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:32:23.146513",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:17:53.057374+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:17:50.848315+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:20:04.682791+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:22:17.557680+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:41:04.870022+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:42:48.649034+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    }
+  ],
+  "INJUSDT": [
+    {
+      "timestamp": "2026-07-18T03:24:26.143845",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T03:49:57.861151",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:02:24.237526",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:20:01.573280",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:37:48.068471",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:40:35.255684",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:57:33.871561",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:12:14.415871",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:27:06.429153",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:30:33.181972",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:59:55.189565",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T04:32:38.414109",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:13:43.055696",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:31:35.882783",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:43:20.651045",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:00:51.090237",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:25:13.088253",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:26:45.300292",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T06:06:54.605287",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:01:29.903942",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:03:02.051987",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T15:42:22.926701",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:37:37.171832",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:49:01.802992",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:51:52.574562",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:08:02.636500",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:13:06.683420",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:16:52.316653",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:24:56.704294",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:35:31.324922",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:39:17.573481",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:15:32.976977",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:18:29.837578",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T04:57:17.532150",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:00:42.584100",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:30:58.990889",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:21:44.459360",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:32:55.324131",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:49:17.649978",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:05:27.967314",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:17:34.247377",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:26:47.932732",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:30:28.462147",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:33:53.454475",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:42:04.056402",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:45:00.562613",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T16:01:10.988518",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:07:08.790703",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:32:09.320560",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:17:49.878332+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:17:47.798124+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:19:59.173481+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:22:14.671209+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:41:01.698410+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:42:45.578487+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    }
+  ],
+  "FILUSDT": [
+    {
+      "timestamp": "2026-07-18T03:24:28.916128",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T03:50:00.569595",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:02:27.031715",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:20:05.140977",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:37:51.084505",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:40:38.153575",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:57:40.407380",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:12:06.214419",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:26:57.211405",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:30:24.704946",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:59:45.513592",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T04:32:27.750165",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:13:49.773584",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:31:41.586025",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:43:26.580270",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:00:56.670004",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:25:21.144378",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:26:53.413786",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T06:57:18.485901",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:01:27.318189",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:02:59.415385",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T15:42:17.515428",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:37:34.194967",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:48:59.088802",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:51:48.845474",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:07:59.915648",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:13:01.184136",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:16:46.786269",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:24:49.961989",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:35:22.545674",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:39:07.866115",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:15:27.409415",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:18:24.185040",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T04:57:09.163113",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:00:32.934028",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:30:50.511966",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:21:34.893977",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:32:46.247067",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:49:09.416184",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:05:18.551657",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:17:24.763227",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:26:36.850532",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:30:17.509200",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:33:44.229214",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:41:53.509247",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:44:50.750507",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T16:01:01.339856",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:07:02.258685",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:32:03.193720",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:17:37.705994+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:17:33.313327+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:19:46.899021+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:22:00.654737+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:40:49.379358+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:42:32.318069+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    }
+  ],
+  "TRXUSDT": [
+    {
+      "timestamp": "2026-07-18T03:24:31.710834",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T03:50:04.560203",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:02:30.094719",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:20:07.975987",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:37:53.772562",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:40:40.995339",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-18T04:57:43.541123",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:12:11.571467",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:26:59.934663",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:30:27.523655",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T03:59:48.480832",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-24T04:32:31.630305",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:13:37.215354",
+      "buy_value": 96632.36,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:31:30.228102",
+      "buy_value": 96632.36,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:43:14.037513",
+      "buy_value": 96632.36,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:00:45.432610",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:25:10.225114",
+      "buy_value": 152380.14,
+      "sell_value": 0.0,
+      "buy_count": 2,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:26:42.525932",
+      "buy_value": 152380.14,
+      "sell_value": 0.0,
+      "buy_count": 2,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T05:50:21.685986",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:01:24.428650",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:02:56.805757",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T15:42:20.208678",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:37:40.042940",
+      "buy_value": 0.0,
+      "sell_value": 61322.59,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-07-26T16:49:04.559504",
+      "buy_value": 62396.58,
+      "sell_value": 61322.59,
+      "buy_count": 1,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-07-26T16:51:55.558392",
+      "buy_value": 62396.58,
+      "sell_value": 61322.59,
+      "buy_count": 1,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-07-26T17:08:08.447171",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:13:10.601074",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:16:55.082196",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:25:03.808040",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:35:34.052718",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:39:20.368780",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:15:38.427601",
+      "buy_value": 0.0,
+      "sell_value": 129743.3,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-07-30T03:18:35.562187",
+      "buy_value": 0.0,
+      "sell_value": 129743.3,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-07-30T04:57:23.138485",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:00:48.065507",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:31:04.492513",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:21:50.112522",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:33:01.312452",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:49:23.164683",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:05:35.251286",
+      "buy_value": 227968.39,
+      "sell_value": 0.0,
+      "buy_count": 2,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:17:40.613722",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:26:54.292227",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:30:35.260243",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:34:00.800856",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:42:10.619884",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:45:09.700085",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T16:01:16.991499",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:07:14.872510",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:32:16.667720",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T16:17:43.758040+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:17:40.482936+00:00",
+      "buy_value": 0.0,
+      "sell_value": 59116.04,
+      "buy_count": 0,
+      "sell_count": 1
+    },
+    {
+      "timestamp": "2026-08-01T17:19:52.924187+00:00",
+      "buy_value": 55142.09,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:22:07.618526+00:00",
+      "buy_value": 55142.09,
+      "sell_value": 0.0,
+      "buy_count": 1,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:40:55.444093+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:42:38.258511+00:00",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    }
+  ],
+  "ETCUSDT": [
+    {
+      "timestamp": "2026-07-26T03:13:55.286709",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:31:47.021668",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T03:43:32.171485",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:01:02.422129",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:25:26.699533",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T04:27:00.005693",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:01:35.886617",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:03:07.585114",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T15:42:28.655989",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:37:45.613720",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:49:07.346091",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T16:51:58.412615",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:08:05.590420",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:13:03.992808",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:16:49.558784",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:24:52.925100",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    }
+  ],
+  "APTUSDT": [
+    {
+      "timestamp": "2026-07-30T02:35:28.242682",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T02:39:13.691675",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:15:35.740156",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T03:18:32.742774",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T04:57:20.426455",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:00:45.315928",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T05:31:01.727933",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    }
+  ],
+  "OPUSDT": [
+    {
+      "timestamp": "2026-07-30T14:21:53.081013",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:33:04.170419",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:49:26.119386",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:05:38.438324",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:17:43.824630",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:26:58.096097",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:30:38.619989",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:34:03.865063",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:42:13.835796",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T15:45:12.762117",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    },
+    {
+      "timestamp": "2026-07-30T16:01:20.079716",
+      "buy_value": 0.0,
+      "sell_value": 0.0,
+      "buy_count": 0,
+      "sell_count": 0
+    }
+  ]
+}

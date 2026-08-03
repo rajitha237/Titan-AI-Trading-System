@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  background: #070b14;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.app {
+  padding: 24px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.live-badge {
+  background: #123f2a;
+  color: #55ff99;
+  padding: 10px 16px;
+  border-radius: 999px;
+  font-weight: bold;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.stat-card,
+.panel {
+  background: #101827;
+  border: 1px solid #1f2d44;
+  border-radius: 16px;
+  padding: 18px;
+}
+
+.stat-title {
+  color: #8fa3bf;
+  font-size: 14px;
+}
+
+.stat-value {
+  font-size: 26px;
+  font-weight: bold;
+  margin-top: 8px;
+}
+
+.stat-subtitle {
+  color: #8fa3bf;
+  margin-top: 8px;
+}
+
+.panel {
+  margin-top: 16px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  text-align: left;
+  border-bottom: 1px solid #1f2d44;
+  padding: 10px;
+}
+
+th {
+  color: #8fa3bf;
+}
