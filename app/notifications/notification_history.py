@@ -262,3 +262,149 @@ def count_notifications() -> int:
         ).fetchone()
 
     return int(row["count"])
+
+
+# ---------------------------------------------------------------------------
+# PostgreSQL backend compatibility layer
+# ---------------------------------------------------------------------------
+
+from app.db.persistence_backend import (
+    postgres_connection,
+    using_postgres,
+)
+
+
+_sqlite_save_notification = save_notification
+_sqlite_list_notifications = list_notifications
+_sqlite_count_notifications = count_notifications
+
+
+def save_notification(
+    notification: dict,
+    *,
+    delivery_status: str,
+    telegram_status: str,
+) -> dict:
+    if not using_postgres():
+        return _sqlite_save_notification(
+            notification,
+            delivery_status=delivery_status,
+            telegram_status=telegram_status,
+        )
+
+    event_key = str(
+        notification.get("event_key", "")
+    )
+
+    if not event_key:
+        raise ValueError(
+            "Notification event_key is required"
+        )
+
+    with postgres_connection() as connection:
+        row = connection.execute(
+            """
+            INSERT INTO notification_history(
+                event_key,
+                event_type,
+                severity,
+                title,
+                message,
+                cycle_id,
+                symbol,
+                delivery_status,
+                telegram_status,
+                payload_json,
+                created_at
+            )
+            VALUES (
+                %s, %s, %s, %s, %s, %s,
+                %s, %s, %s, %s, %s
+            )
+            ON CONFLICT(event_key) DO UPDATE SET
+                delivery_status =
+                    EXCLUDED.delivery_status,
+                telegram_status =
+                    EXCLUDED.telegram_status,
+                payload_json =
+                    EXCLUDED.payload_json
+            RETURNING *
+            """,
+            (
+                event_key,
+                notification.get("event_type"),
+                notification.get("severity"),
+                notification.get("title"),
+                notification.get("message"),
+                notification.get("cycle_id"),
+                notification.get("symbol"),
+                str(delivery_status),
+                str(telegram_status),
+                _json(notification),
+                notification.get("created_at"),
+            ),
+        ).fetchone()
+
+    return _row_to_dict(row)
+
+
+def list_notifications(
+    *,
+    limit: int = 50,
+    severity: str | None = None,
+) -> list[dict]:
+    if not using_postgres():
+        return _sqlite_list_notifications(
+            limit=limit,
+            severity=severity,
+        )
+
+    limit = max(
+        1,
+        min(500, int(limit)),
+    )
+
+    parameters: list[Any] = []
+
+    query = """
+        SELECT *
+        FROM notification_history
+    """
+
+    if severity:
+        query += " WHERE severity = %s"
+        parameters.append(
+            str(severity).upper()
+        )
+
+    query += """
+        ORDER BY notification_id DESC
+        LIMIT %s
+    """
+    parameters.append(limit)
+
+    with postgres_connection() as connection:
+        rows = connection.execute(
+            query,
+            parameters,
+        ).fetchall()
+
+    return [
+        _row_to_dict(row)
+        for row in rows
+    ]
+
+
+def count_notifications() -> int:
+    if not using_postgres():
+        return _sqlite_count_notifications()
+
+    with postgres_connection() as connection:
+        row = connection.execute(
+            """
+            SELECT COUNT(*) AS count
+            FROM notification_history
+            """
+        ).fetchone()
+
+    return int(row["count"])

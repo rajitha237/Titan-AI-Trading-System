@@ -177,3 +177,110 @@ def list_performance_snapshots(
         }
         for row in rows
     ]
+
+
+# ---------------------------------------------------------------------------
+# PostgreSQL backend compatibility layer
+# ---------------------------------------------------------------------------
+
+from app.db.persistence_backend import (
+    postgres_connection,
+    using_postgres,
+)
+
+
+_sqlite_save_performance_snapshot = save_performance_snapshot
+_sqlite_list_performance_snapshots = list_performance_snapshots
+
+
+def save_performance_snapshot(
+    *,
+    snapshot_key: str,
+    payload: dict,
+) -> dict:
+    if not using_postgres():
+        return _sqlite_save_performance_snapshot(
+            snapshot_key=snapshot_key,
+            payload=payload,
+        )
+
+    key = str(snapshot_key or "").strip()
+    if not key:
+        raise ValueError(
+            "snapshot_key is required"
+        )
+
+    created_at = _utc_now()
+
+    with postgres_connection() as connection:
+        row = connection.execute(
+            """
+            INSERT INTO performance_snapshots(
+                snapshot_key,
+                payload_json,
+                created_at
+            )
+            VALUES (%s, %s, %s)
+            ON CONFLICT(snapshot_key)
+            DO UPDATE SET
+                payload_json = EXCLUDED.payload_json,
+                created_at = EXCLUDED.created_at
+            RETURNING *
+            """,
+            (
+                key,
+                json.dumps(
+                    payload,
+                    ensure_ascii=False,
+                    default=str,
+                ),
+                created_at,
+            ),
+        ).fetchone()
+
+    return {
+        "snapshot_id": row["snapshot_id"],
+        "snapshot_key": row["snapshot_key"],
+        "payload": json.loads(
+            row["payload_json"]
+        ),
+        "created_at": row["created_at"],
+    }
+
+
+def list_performance_snapshots(
+    *,
+    limit: int = 50,
+) -> list[dict]:
+    if not using_postgres():
+        return _sqlite_list_performance_snapshots(
+            limit=limit
+        )
+
+    limit = max(
+        1,
+        min(500, int(limit)),
+    )
+
+    with postgres_connection() as connection:
+        rows = connection.execute(
+            """
+            SELECT *
+            FROM performance_snapshots
+            ORDER BY snapshot_id DESC
+            LIMIT %s
+            """,
+            (limit,),
+        ).fetchall()
+
+    return [
+        {
+            "snapshot_id": row["snapshot_id"],
+            "snapshot_key": row["snapshot_key"],
+            "payload": json.loads(
+                row["payload_json"]
+            ),
+            "created_at": row["created_at"],
+        }
+        for row in rows
+    ]

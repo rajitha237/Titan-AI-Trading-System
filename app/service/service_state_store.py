@@ -259,3 +259,193 @@ def get_latest_heartbeat(
         ),
         "created_at": row["created_at"],
     }
+
+
+# ---------------------------------------------------------------------------
+# PostgreSQL backend compatibility layer
+# ---------------------------------------------------------------------------
+
+from app.db.persistence_backend import (
+    postgres_connection,
+    using_postgres,
+)
+
+
+_sqlite_set_state = set_state
+_sqlite_get_state = get_state
+_sqlite_delete_state = delete_state
+_sqlite_record_heartbeat = record_heartbeat
+_sqlite_get_latest_heartbeat = get_latest_heartbeat
+
+
+def set_state(
+    state_key: str,
+    state_value: Any,
+) -> None:
+    if not using_postgres():
+        return _sqlite_set_state(
+            state_key,
+            state_value,
+        )
+
+    key = str(state_key or "").strip()
+    if not key:
+        raise ValueError("state_key is required")
+
+    with postgres_connection() as connection:
+        connection.execute(
+            """
+            INSERT INTO service_state(
+                state_key,
+                state_value,
+                updated_at
+            )
+            VALUES (%s, %s, %s)
+            ON CONFLICT(state_key) DO UPDATE SET
+                state_value = EXCLUDED.state_value,
+                updated_at = EXCLUDED.updated_at
+            """,
+            (
+                key,
+                _json(state_value),
+                _utc_now(),
+            ),
+        )
+
+
+def get_state(
+    state_key: str,
+    default: Any = None,
+) -> Any:
+    if not using_postgres():
+        return _sqlite_get_state(
+            state_key,
+            default,
+        )
+
+    with postgres_connection() as connection:
+        row = connection.execute(
+            """
+            SELECT state_value
+            FROM service_state
+            WHERE state_key = %s
+            """,
+            (
+                str(state_key or "").strip(),
+            ),
+        ).fetchone()
+
+    if not row:
+        return default
+
+    return _loads(
+        row["state_value"],
+        default,
+    )
+
+
+def delete_state(
+    state_key: str,
+) -> None:
+    if not using_postgres():
+        return _sqlite_delete_state(state_key)
+
+    with postgres_connection() as connection:
+        connection.execute(
+            """
+            DELETE FROM service_state
+            WHERE state_key = %s
+            """,
+            (
+                str(state_key or "").strip(),
+            ),
+        )
+
+
+def record_heartbeat(
+    *,
+    service_name: str,
+    status: str,
+    mode: str | None,
+    cycle_id: str | None,
+    payload: dict | None = None,
+) -> int:
+    if not using_postgres():
+        return _sqlite_record_heartbeat(
+            service_name=service_name,
+            status=status,
+            mode=mode,
+            cycle_id=cycle_id,
+            payload=payload,
+        )
+
+    with postgres_connection() as connection:
+        row = connection.execute(
+            """
+            INSERT INTO service_heartbeats(
+                service_name,
+                status,
+                mode,
+                cycle_id,
+                payload,
+                created_at
+            )
+            VALUES (%s, %s, %s, %s, %s, %s)
+            RETURNING heartbeat_id
+            """,
+            (
+                str(service_name),
+                str(status),
+                (
+                    str(mode)
+                    if mode is not None
+                    else None
+                ),
+                (
+                    str(cycle_id)
+                    if cycle_id is not None
+                    else None
+                ),
+                _json(payload or {}),
+                _utc_now(),
+            ),
+        ).fetchone()
+
+    return int(row["heartbeat_id"])
+
+
+def get_latest_heartbeat(
+    service_name: str,
+) -> dict | None:
+    if not using_postgres():
+        return _sqlite_get_latest_heartbeat(
+            service_name
+        )
+
+    with postgres_connection() as connection:
+        row = connection.execute(
+            """
+            SELECT *
+            FROM service_heartbeats
+            WHERE service_name = %s
+            ORDER BY heartbeat_id DESC
+            LIMIT 1
+            """,
+            (str(service_name),),
+        ).fetchone()
+
+    if not row:
+        return None
+
+    return {
+        "heartbeat_id": row["heartbeat_id"],
+        "service_name": row["service_name"],
+        "status": row["status"],
+        "mode": row["mode"],
+        "cycle_id": row["cycle_id"],
+        "payload": _loads(
+            row["payload"],
+            {},
+        ),
+        "created_at": row["created_at"],
+    }

@@ -47,3 +47,5 @@ uvloop==0.22.1
 watchfiles==1.2.0
 websocket-client==1.9.0
 websockets==16.1.1
+psycopg[binary]==3.3.5
+psycopg-pool==3.3.1
