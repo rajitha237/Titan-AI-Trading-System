@@ -6,7 +6,7 @@ Detects aggressive buyer/seller behavior using Binance recent trades.
 
 import httpx
 
-BINANCE_AGG_TRADES_URL = "https://api.binance.com/api/v3/aggTrades"
+BINANCE_AGG_TRADES_URL = "https://testnet.binancefuture.com/fapi/v1/aggTrades"
 
 
 async def get_agg_trades(
