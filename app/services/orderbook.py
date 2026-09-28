@@ -4,7 +4,7 @@ Binance Order Book Service
 
 import httpx
 
-BINANCE_DEPTH_URL = "https://api.binance.com/api/v3/depth"
+BINANCE_DEPTH_URL = "https://testnet.binancefuture.com/fapi/v1/depth"
 
 
 async def get_order_book(symbol: str = "BTCUSDT", limit: int = 100):
