@@ -26,7 +26,6 @@ async def auto_testnet_run(
     try:
 
         result = await run_auto_testnet_cycle(
-            symbol=symbol,
             quantity=quantity,
             execute_trade=execute_trade,
         )

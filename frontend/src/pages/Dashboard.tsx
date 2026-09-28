@@ -14,15 +14,30 @@ export default function Dashboard() {
   const [testnet, setTestnet] = useState<any>(null);
 
   async function loadData() {
-    const [s, j, t] = await Promise.all([
-      getTitanStatus(),
-      getJournal(),
-      getTestnetStatus(),
-    ]);
+    const [statusResult, journalResult, testnetResult] =
+      await Promise.allSettled([
+        getTitanStatus(),
+        getJournal(),
+        getTestnetStatus(),
+      ]);
 
-    setStatus(s);
-    setJournal(j.entries || []);
-    setTestnet(t);
+    if (statusResult.status === "fulfilled") {
+      setStatus(statusResult.value);
+    } else {
+      console.error("Titan status request failed:", statusResult.reason);
+    }
+
+    if (journalResult.status === "fulfilled") {
+      setJournal(journalResult.value?.entries || []);
+    } else {
+      console.error("Journal request failed:", journalResult.reason);
+    }
+
+    if (testnetResult.status === "fulfilled") {
+      setTestnet(testnetResult.value);
+    } else {
+      console.error("Testnet status request failed:", testnetResult.reason);
+    }
   }
 
   useEffect(() => {

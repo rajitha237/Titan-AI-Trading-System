@@ -4,7 +4,7 @@ Binance Candlestick / Kline Service
 
 import httpx
 
-BINANCE_KLINES_URL = "https://api.binance.com/api/v3/klines"
+BINANCE_KLINES_URL = "https://testnet.binancefuture.com/fapi/v1/klines"
 
 
 async def get_klines(
