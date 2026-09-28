@@ -46,10 +46,15 @@ export default function Dashboard() {
     return () => clearInterval(timer);
   }, []);
 
-  const best = status?.best_setup;
-  const symbol = status?.symbol || "-";
-  const score = best?.ai_score?.score || "-";
-  const decision = best?.final_decision?.decision || "-";
+  const scan = status?.scan;
+  const best = scan?.best_setup;
+
+  const symbol = best?.symbol || "-";
+  const score = best?.ai_score?.score ?? "-";
+  const decision =
+    best?.final_decision?.decision ||
+    best?.ai_score?.signal ||
+    "-";
 
   return (
     <>
