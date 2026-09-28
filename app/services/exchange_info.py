@@ -1,6 +1,6 @@
 import httpx
 
-BINANCE_FUTURES_URL = "https://fapi.binance.com/fapi/v1/exchangeInfo"
+BINANCE_FUTURES_URL = "https://testnet.binancefuture.com/fapi/v1/exchangeInfo"
 
 
 async def get_symbol_filters(symbol: str) -> dict:

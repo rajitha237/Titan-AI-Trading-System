@@ -4,7 +4,7 @@ Binance Futures Funding Rate Service
 
 import httpx
 
-BINANCE_PREMIUM_INDEX_URL = "https://fapi.binance.com/fapi/v1/premiumIndex"
+BINANCE_PREMIUM_INDEX_URL = "https://testnet.binancefuture.com/fapi/v1/premiumIndex"
 
 
 async def get_funding_rate(symbol: str = "BTCUSDT") -> dict:

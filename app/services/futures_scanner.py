@@ -4,7 +4,7 @@ Binance Futures Scanner Service
 
 import httpx
 
-BINANCE_FUTURES_URL = "https://fapi.binance.com/fapi/v1/ticker/24hr"
+BINANCE_FUTURES_URL = "https://testnet.binancefuture.com/fapi/v1/ticker/24hr"
 
 ALLOWED_CRYPTO_SYMBOLS = {
     "BTCUSDT", "ETHUSDT", "SOLUSDT", "XRPUSDT", "BNBUSDT",

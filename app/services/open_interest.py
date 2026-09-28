@@ -4,7 +4,7 @@ Binance Futures Open Interest Service
 
 import httpx
 
-BINANCE_OPEN_INTEREST_URL = "https://fapi.binance.com/fapi/v1/openInterest"
+BINANCE_OPEN_INTEREST_URL = "https://testnet.binancefuture.com/fapi/v1/openInterest"
 
 
 async def get_open_interest(symbol: str = "BTCUSDT") -> dict:
