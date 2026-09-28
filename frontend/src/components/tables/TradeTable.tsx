@@ -1,4 +1,4 @@
-export default function TradeTable({ entries }) {
+export default function TradeTable({ entries }: { entries: any[] }) {
   return (
     <div className="panel">
       <h2>Trade Journal</h2>
@@ -16,7 +16,7 @@ export default function TradeTable({ entries }) {
           {entries
             ?.slice(-10)
             .reverse()
-            .map((e, i) => (
+            .map((e: any, i: number) => (
               <tr key={i}>
                 <td>{new Date(e.timestamp).toLocaleTimeString()}</td>
                 <td>{e.symbol}</td>

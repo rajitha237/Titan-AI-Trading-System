@@ -1,4 +1,4 @@
-export default function PositionCard({ positions }) {
+export default function PositionCard({ positions }: { positions: any[] }) {
   return (
     <div className="panel">
       <h2>Open Positions</h2>
