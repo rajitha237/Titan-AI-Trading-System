@@ -11,7 +11,7 @@ const api = axios.create({
 });
 
 export async function getTitanStatus() {
-  const response = await api.get("/auto-testnet/run");
+  const response = await api.get("/auto-testnet/status");
   return response.data;
 }
 
