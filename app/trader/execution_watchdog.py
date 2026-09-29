@@ -121,11 +121,23 @@ def evaluate_execution_watchdog(
     allowed = not block_reasons
 
     if allowed:
+        # A successful half-open probe closes the breaker and
+        # clears the persisted failure state.
         circuit_breaker.record_success()
     else:
-        circuit_breaker.record_failure(
-            "; ".join(block_reasons)
-        )
+        # Do not count the breaker being OPEN as a new underlying
+        # failure. Doing so would reset the recovery timer on every
+        # runner cycle and could keep the breaker OPEN forever.
+        underlying_failures = [
+            reason
+            for reason in block_reasons
+            if reason != "Execution circuit breaker is open"
+        ]
+
+        if underlying_failures:
+            circuit_breaker.record_failure(
+                "; ".join(underlying_failures)
+            )
 
     return {
         "status": (
