@@ -2,13 +2,13 @@ from fastapi import APIRouter, Query, HTTPException
 import logging
 
 from app.trader.auto_testnet_runner import run_auto_testnet_cycle
+from app.service.service_state_store import get_state, set_state
 
 router = APIRouter()
 logger = logging.getLogger(__name__)
 
-# Latest successfully completed cycle for read-only dashboard polling.
-# Temporary process-local cache; persistent/shared storage comes with worker cutover.
-_latest_cycle_result = None
+# Persistent key shared by the scanner/worker and read-only dashboard API.
+LATEST_SCANNER_STATE_KEY = "latest_scanner_result"
 
 
 @router.get("/auto-testnet/run")
@@ -41,8 +41,10 @@ async def auto_testnet_run(
             and result.get("scan")
             and result.get("reason") != "Another auto-testnet cycle is already running"
         ):
-            global _latest_cycle_result
-            _latest_cycle_result = result
+            set_state(
+                LATEST_SCANNER_STATE_KEY,
+                result,
+            )
 
         return result
 
@@ -59,11 +61,16 @@ async def auto_testnet_run(
 @router.get("/auto-testnet/status")
 async def auto_testnet_status():
     """Return the latest completed scanner cycle without starting a new cycle."""
-    if _latest_cycle_result is None:
+    latest_result = get_state(
+        LATEST_SCANNER_STATE_KEY,
+        None,
+    )
+
+    if latest_result is None:
         return {
             "status": "waiting",
-            "reason": "No completed scanner cycle is cached yet",
+            "reason": "No completed scanner cycle is persisted yet",
             "scan": None,
         }
 
-    return _latest_cycle_result
+    return latest_result
