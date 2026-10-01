@@ -217,6 +217,181 @@
           padding-top: 20px;
         }
       }
+
+    /* ===== TitanAI Live AI Analysis Terminal ===== */
+
+    .ai-terminal-card {
+      grid-column: 1 / -1;
+      padding: 0;
+      overflow: hidden;
+      background: #010603;
+      border: 1px solid rgba(0, 255, 102, 0.38);
+      box-shadow:
+        0 0 0 1px rgba(0, 255, 102, 0.04),
+        0 0 32px rgba(0, 255, 102, 0.08);
+    }
+
+    .ai-terminal-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      padding: 13px 17px;
+      background: linear-gradient(
+        180deg,
+        rgba(7, 28, 16, 0.98),
+        rgba(2, 13, 7, 0.98)
+      );
+      border-bottom: 1px solid rgba(0, 255, 102, 0.28);
+    }
+
+    .ai-terminal-title {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      color: #64ff94;
+      font-family:
+        "SFMono-Regular",
+        Consolas,
+        "Liberation Mono",
+        Menlo,
+        monospace;
+      font-size: 13px;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+    }
+
+    .ai-terminal-icon {
+      color: #00ff66;
+      text-shadow:
+        0 0 7px #00ff66,
+        0 0 14px rgba(0, 255, 102, 0.5);
+    }
+
+    .ai-terminal-live {
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      color: #00ff66;
+      font-family:
+        "SFMono-Regular",
+        Consolas,
+        "Liberation Mono",
+        Menlo,
+        monospace;
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+    }
+
+    .ai-terminal-live-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: #00ff66;
+      box-shadow:
+        0 0 7px #00ff66,
+        0 0 15px rgba(0, 255, 102, 0.8);
+      animation: aiTerminalPulse 1.5s infinite;
+    }
+
+    @keyframes aiTerminalPulse {
+      0%, 100% {
+        opacity: 1;
+        transform: scale(1);
+      }
+
+      50% {
+        opacity: 0.35;
+        transform: scale(0.7);
+      }
+    }
+
+    .ai-terminal-screen {
+      height: 420px;
+      overflow-y: auto;
+      padding: 18px 20px 22px;
+      background:
+        linear-gradient(
+          rgba(0, 255, 102, 0.018) 50%,
+          transparent 50%
+        ),
+        #010603;
+      background-size: 100% 4px;
+
+      color: #00ff66;
+      font-family:
+        "SFMono-Regular",
+        Consolas,
+        "Liberation Mono",
+        Menlo,
+        monospace;
+      font-size: 13px;
+      line-height: 1.7;
+
+      scrollbar-width: thin;
+      scrollbar-color: #126d39 #010603;
+    }
+
+    .ai-terminal-line {
+      min-height: 22px;
+      white-space: pre-wrap;
+      overflow-wrap: anywhere;
+      color: #00ff66;
+      text-shadow: 0 0 7px rgba(0, 255, 102, 0.22);
+    }
+
+    .ai-terminal-line.dim {
+      color: #55b878;
+    }
+
+    .ai-terminal-line.strong {
+      color: #8affad;
+      font-weight: 700;
+    }
+
+    .ai-terminal-line.warning {
+      color: #b7ff78;
+    }
+
+    .ai-terminal-line.blocked {
+      color: #72ff98;
+      font-weight: 700;
+    }
+
+    .ai-terminal-cursor {
+      display: inline-block;
+      width: 8px;
+      height: 15px;
+      margin-left: 5px;
+      vertical-align: -2px;
+      background: #00ff66;
+      box-shadow: 0 0 9px rgba(0, 255, 102, 0.85);
+      animation: aiTerminalBlink 0.85s steps(1) infinite;
+    }
+
+    @keyframes aiTerminalBlink {
+      50% {
+        opacity: 0;
+      }
+    }
+
+    @media (max-width: 600px) {
+      .ai-terminal-screen {
+        height: 340px;
+        padding: 14px;
+        font-size: 11px;
+      }
+
+      .ai-terminal-header {
+        padding: 11px 13px;
+      }
+
+      .ai-terminal-title {
+        font-size: 11px;
+      }
+    }
+
     </style>
   </head>
   <body>
@@ -285,7 +460,37 @@
           </div>
         </article>
 
-        <article class="card full">
+
+        <article class="card ai-terminal-card">
+          <div class="ai-terminal-header">
+            <div class="ai-terminal-title">
+              <span class="ai-terminal-icon">&gt;_</span>
+              TITANAI LIVE AI ANALYSIS
+            </div>
+
+            <div class="ai-terminal-live">
+              <span class="ai-terminal-live-dot"></span>
+              LIVE
+            </div>
+          </div>
+
+          <div
+            id="ai-terminal"
+            class="ai-terminal-screen"
+            aria-live="polite"
+          >
+            <div class="ai-terminal-line strong">
+              $ TitanAI production intelligence console
+            </div>
+
+            <div class="ai-terminal-line dim">
+              $ waiting for production analysis data...
+              <span class="ai-terminal-cursor"></span>
+            </div>
+          </div>
+        </article>
+
+<article class="card full">
           <h2>Recent Trading Cycles</h2>
           <div class="table-wrap">
             <table>
@@ -439,12 +644,325 @@
           .join("");
       }
 
+
+      function aiTerminalTime(value) {
+        if (!value) {
+          return new Date().toLocaleTimeString([], {
+            hour12: false,
+          });
+        }
+
+        const date = new Date(value);
+
+        if (Number.isNaN(date.getTime())) {
+          return String(value).slice(0, 8);
+        }
+
+        return date.toLocaleTimeString([], {
+          hour12: false,
+        });
+      }
+
+      function aiTerminalPick(item, keys, fallback = "—") {
+        return pick(item || {}, keys, fallback);
+      }
+
+      function buildAiTerminalLines(
+        overview,
+        cycles,
+        analysis,
+      ) {
+        const scheduler = overview.scheduler || {};
+        const items = Array.isArray(cycles) ? cycles : [];
+
+        const scan = analysis?.scan || {};
+        const best = scan.best_setup || {};
+        const ai = best.ai_score || {};
+        const mtf = best.multi_timeframe || {};
+        const timeframes = mtf.timeframes || {};
+
+        const attempts = Array.isArray(
+          analysis?.candidate_attempts
+        )
+          ? analysis.candidate_attempts
+          : [];
+
+        const now = aiTerminalTime();
+        const lines = [];
+
+        lines.push({
+          type: "strong",
+          text:
+            "$ TitanAI production intelligence console",
+        });
+
+        lines.push({
+          type: "dim",
+          text:
+            `[${now}] SYSTEM       ` +
+            (
+              scheduler.running
+                ? "ENGINE ONLINE"
+                : "ENGINE IDLE"
+            ),
+        });
+
+        lines.push({
+          type: "",
+          text:
+            `[${now}] MODE         ` +
+            (
+              scheduler.execute_trades
+                ? "TESTNET EXECUTION"
+                : "ANALYSIS / MONITORING"
+            ),
+        });
+
+        lines.push({
+          type: "",
+          text: "",
+        });
+
+        if (!analysis || !analysis.scan) {
+          lines.push({
+            type: "warning",
+            text:
+              `[${now}] SCANNER      ` +
+              "Waiting for completed market scan...",
+          });
+
+          lines.push({
+            type: "strong",
+            text:
+              `[${now}] SYSTEM       ` +
+              "Waiting for next analysis cycle...",
+          });
+
+          return lines;
+        }
+
+        lines.push({
+          type: "strong",
+          text:
+            `[${now}] SCANNER      ` +
+            `Top ${scan.total_symbols ?? "—"} Futures scan complete`,
+        });
+
+        lines.push({
+          type: "",
+          text:
+            `[${now}] RANKED       ` +
+            `${Array.isArray(scan.ranked) ? scan.ranked.length : "—"} symbols`,
+        });
+
+        lines.push({
+          type: "",
+          text:
+            `[${now}] EXECUTABLE   ` +
+            `${scan.executable_count ?? "—"} candidates`,
+        });
+
+        lines.push({
+          type:
+            Array.isArray(scan.errors) &&
+            scan.errors.length > 0
+              ? "warning"
+              : "dim",
+          text:
+            `[${now}] SCAN ERRORS  ` +
+            `${Array.isArray(scan.errors) ? scan.errors.length : 0}`,
+        });
+
+        lines.push({
+          type: "",
+          text: "",
+        });
+
+        lines.push({
+          type: "strong",
+          text:
+            `[${now}] BEST         ` +
+            `${best.symbol || "NO CANDIDATE"}`,
+        });
+
+        lines.push({
+          type: "strong",
+          text:
+            `[${now}] AI SCORE     ` +
+            `${ai.score ?? "—"}`,
+        });
+
+        lines.push({
+          type: "strong",
+          text:
+            `[${now}] SIGNAL       ` +
+            `${ai.signal || "—"}`,
+        });
+
+        lines.push({
+          type: "",
+          text: "",
+        });
+
+        const tfOrder = [
+          ["5m", "5M TREND"],
+          ["15m", "15M TREND"],
+          ["1h", "1H TREND"],
+          ["4h", "4H TREND"],
+        ];
+
+        for (const [key, label] of tfOrder) {
+          const tf = timeframes[key] || {};
+
+          lines.push({
+            type: "",
+            text:
+              `[${now}] ${label.padEnd(12)} ` +
+              `${tf.trend || "—"}`,
+          });
+        }
+
+        lines.push({
+          type:
+            mtf.overall_trend === "MIXED"
+              ? "warning"
+              : "strong",
+          text:
+            `[${now}] MTF          ` +
+            `${mtf.overall_trend || "—"}` +
+            ` | BULL ${mtf.bullish_count ?? "—"}` +
+            ` / BEAR ${mtf.bearish_count ?? "—"}`,
+        });
+
+        lines.push({
+          type: "",
+          text: "",
+        });
+
+        const bestAttempt =
+          attempts.find(
+            (item) =>
+              item &&
+              item.symbol === best.symbol,
+          ) || attempts[0] || null;
+
+        if (bestAttempt) {
+          const validation =
+            bestAttempt.validation ||
+            bestAttempt.final_validation ||
+            {};
+
+          const allowed =
+            validation.allowed ??
+            bestAttempt.allowed ??
+            false;
+
+          lines.push({
+            type: allowed ? "strong" : "warning",
+            text:
+              `[${now}] VALIDATOR    ` +
+              `${allowed ? "PASSED" : "BLOCKED"}`,
+          });
+
+          const reason =
+            validation.reason ||
+            bestAttempt.reason ||
+            bestAttempt.rejection_reason ||
+            "";
+
+          if (reason) {
+            lines.push({
+              type: "dim",
+              text:
+                `[${now}] REASON       ${reason}`,
+            });
+          }
+        }
+
+        lines.push({
+          type:
+            analysis.status === "skipped"
+              ? "warning"
+              : "strong",
+          text:
+            `[${now}] EXECUTION    ` +
+            `${String(
+              analysis.status || "unknown"
+            ).toUpperCase()}`,
+        });
+
+        if (analysis.reason) {
+          lines.push({
+            type: "dim",
+            text:
+              `[${now}] SAFETY       ` +
+              `${analysis.reason}`,
+          });
+        }
+
+        lines.push({
+          type: "",
+          text: "",
+        });
+
+        lines.push({
+          type: "strong",
+          text:
+            `[${aiTerminalTime()}] SYSTEM       ` +
+            "Waiting for next analysis cycle...",
+        });
+
+        return lines;
+      }
+
+      function renderAiTerminal(overview, cycles, analysis) {
+        const terminal =
+          document.getElementById("ai-terminal");
+
+        if (!terminal) {
+          return;
+        }
+
+        const lines = buildAiTerminalLines(
+          overview || {},
+          cycles || [],
+          analysis || {},
+        );
+
+        terminal.innerHTML = lines
+          .map((line, index) => {
+            const isLast =
+              index === lines.length - 1;
+
+            const cursor = isLast
+              ? '<span class="ai-terminal-cursor"></span>'
+              : "";
+
+            return (
+              `<div class="ai-terminal-line ` +
+              `${escapeHtml(line.type || "")}">` +
+              `${escapeHtml(line.text || "")}` +
+              `${cursor}</div>`
+            );
+          })
+          .join("");
+
+        terminal.scrollTop = terminal.scrollHeight;
+      }
+
+
       async function refresh() {
         try {
-          const [overview, positions, cycles] = await Promise.all([
+          const [
+            overview,
+            positions,
+            cycles,
+            analysis,
+          ] = await Promise.all([
             fetchJson("/api/dashboard/overview"),
             fetchJson("/api/dashboard/positions?limit=50"),
             fetchJson("/api/dashboard/cycles?limit=30"),
+            fetchJson("/api/v1/auto-testnet/status"),
           ]);
 
           const performance = overview.performance || {};
@@ -470,6 +988,7 @@
           renderHealth(overview.scheduler || {}, overview.telegram || {});
           renderPositions(positions.items || []);
           renderCycles(cycles.items || []);
+          renderAiTerminal(overview, cycles.items || [], analysis);
 
           document.getElementById("updated-at").textContent =
             `Last refreshed: ${new Date().toLocaleString()}`;
